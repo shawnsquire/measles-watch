@@ -1,0 +1,35 @@
+name: Update measles data
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # daily, 9:00am ET
+    - cron: "0 23 * * 2"   # Tuesdays 4:00pm MST — right after AZDHS's weekly 3pm update
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch sources
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: python fetch_measles.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "measles-watch"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/data.json state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
