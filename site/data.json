@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T16:55:59+00:00",
+ "generated_at": "2026-09-10T16:43:59+00:00",
  "cdc": null,
  "regions": [
   {
@@ -22,13 +22,6 @@
    ],
    "news": [
     {
-     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-     "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-     "new": false
-    },
-    {
      "title": "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0VlaUs1X3pCT2tvNHFIQV9Tc09XMHBuNWtVc3YtQzh4Q2hXcGRmTV94VWZpWlVnZk5sYTl2WlpyYnFnaEpPU2prNWNrY2RFaGpRUEdCVTAyVkg1ZC1WYy04UExfNlJYR3ZkYVljZ3Y4WnpXRjlXLUV2U19jak94QTdFYWd1bXYxZ3VQN3VMX081SXc4NGp6Z012REZKS05wR0Y4SmRmeXdaSkcycjZ3UDB2eThfY044Q2ZSTHdEbXk1MUUzMi1HdEx1UVFMQmF4UDZtV1VtTl9xdkpOcHZpRFNuTTE?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
@@ -36,10 +29,10 @@
      "new": false
     },
     {
-     "title": "Measles outbreak declared in 3 Maryland counties - WBAL-TV",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hYOHVWYW9qUU94T09Pa01uWllDcHBWRW5UMHpuSGtPSjBWWUNUcm9xUTZQNGRMd2NmZ3J1aVJwclhaNkVaaV9meTR2aUdYZkk4THd5WU9aWktodHJpWkhfRjlMTVRPREszWTctRjgtbkZhLWRBdWdibzBQNWhDRW5vWWZwQU5xV05nWWdSX0J6M1RRaElKMGYzRjdkdw?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "WBAL-TV",
+     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+     "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
      "new": false
     },
     {
@@ -50,10 +43,31 @@
      "new": false
     },
     {
-     "title": "Maryland declares measles outbreak in 3 counties - nbcwashington.com",
+     "title": "Measles outbreak declared in 3 Maryland counties - WBAL-TV",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hYOHVWYW9qUU94T09Pa01uWllDcHBWRW5UMHpuSGtPSjBWWUNUcm9xUTZQNGRMd2NmZ3J1aVJwclhaNkVaaV9meTR2aUdYZkk4THd5WU9aWktodHJpWkhfRjlMTVRPREszWTctRjgtbkZhLWRBdWdibzBQNWhDRW5vWWZwQU5xV05nWWdSX0J6M1RRaElKMGYzRjdkdw?oc=5",
+     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+     "source": "WBAL-TV",
+     "new": false
+    },
+    {
+     "title": "Potential measles exposure reported in downtown Bethesda - WTOP News",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjMtSFBjMEJUZUFBZHNXZzhsbEJqN2tXZ2NyOTNqeExQTkgxMEk3VkVuRXlFSHdkcTE4OWZBNU9ZVTZCcWlEcUpZS1oya0xSRG5oTFk0dE9lNDdrdjBwUUhza2xuUW5HTzZveDIyVWxqejNoalhwWlZXYUlrb01WZFBITDFYbWtOTW9WQ1lHeVZxVkY5cHc?oc=5",
+     "published": "Thu, 10 Sep 2026 00:20:30 GMT",
+     "source": "WTOP News",
+     "new": true
+    },
+    {
+     "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "nbcwashington.com",
+     "source": "NBC4 Washington",
+     "new": false
+    },
+    {
+     "title": "Doctor warns Maryland parents about measles as school starts - WBAL-TV",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFMUVpuZmdnd3hDcl9YcW9HQmVqUWNVSjJMb2NsbEtVZzdYZmtVR2g5dy1MeWxDNjlJQUZ1LThIbFZ4QVRWeXFtVVhrbDZLYWRQbXpmSThuM3lkUHFKTVhBUV9iTXJCeWNyOE5OUXp1ang5d01FdmxRN3Z6bzhGWWo3TGo?oc=5",
+     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+     "source": "WBAL-TV",
      "new": false
     },
     {
@@ -64,17 +78,10 @@
      "new": false
     },
     {
-     "title": "Maryland Department of Health declares measles outbreak in 3 Maryland counties - WUSA9",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzdiYThkZUtSSzFUWWtYc2ctMXZnUVhFRE1CWWQ1TG9URlU1ME9IcjVmUXBrekYzRF8tOG0ycGh2czJWbThvbzdIV1JRUzB6RkFuVFhQWDV3cFVaSHlyZGo1WUxaXzZxR18yUklzbUxHZ3RzNVI0dHlJYnJGTmxJX0ZRQWluaDdlQzZ6dHp2M2xZTXZZeFpGMlVCNWtPU1JEaDF3d01CZHVpbUIyTFY4UW1XLUtCM1k5VFU5alJKNk45b2pfRjRtaXpfempCd29hME5DNkctWDNfaVFwTXc?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "WUSA9",
-     "new": false
-    },
-    {
-     "title": "Maryland measles cases jump tenfold this year, with outbreak declared in 3 counties - The Baltimore Banner",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlk4X1Q0d0pFbDZBdjYxMVlsTmUxS1hfUnNnNlQ2Z3dmQVNvZDM3NlZJeFJvc1puU3M1a0xuSTdWX0ZWSGZ6emdBZGxFelVnVkZCQjhTbmRFZEc4ZzUtR2ZvWGJ1TmJMSUxuamZtSmUwc2dTalVyOUk5ekJMTktlcGJVbXRYblUxakkwbjBCOWZrSWpTWmlWazhPZVVLVW54VURhUGlB?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "The Baltimore Banner",
+     "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVzloblRkUWYwS0hDYmhRWk94R0laeUxBcUlrZ3k4ZEFzVzlnVmZ0RFViMkRaVDA5TEprS09OYTItcldrWTZkN2lWcFJtZC1YOHM1OHhMbjZDdEJUSktHSXdxTVNqUTFQZ0RJN0sxOWs?oc=5",
+     "published": "Wed, 09 Sep 2026 22:20:07 GMT",
+     "source": "Baltimore Sun",
      "new": true
     },
     {
@@ -96,13 +103,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPU1QxSUJpM3g0Y2cxNnlCTXF0ZnJCQ0NKVmRlMjU1aFh2eGVJSHlfVzZnMzFESWxHSWZxUjdKNWZqNGRsSEtNSFhRT0I1SGZsOGhmTWlrUDRMZlNrRWJUQldGR0VTZHNUSU5xbDJJeEVpWVVHeVJBckln?oc=5",
      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
      "source": "Patch",
-     "new": false
-    },
-    {
-     "title": "Two Measles Cases Confirmed In Maryland; Possible Exposures Listed In Anne Arundel County - Eye On Annapolis",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0ZvWS1QYTM4eU5KSEdkbC1NTkRaOGIwS2pOTXlkblhqLUZERjM2cDBJZ3hmTGpMQVE5ZkpxSmc0dDJ1V1lTV254cEtXSnhVMDdJMGZzM1pSdVF5dl9VcUtWMHcwZGV4NEpaRFdKSHJLSkZGNmx1WFZwOXBnUDBUazVsWXl2RkJXakV6UUZUeVVxZXUtNmRQcjMxYWotMFFwUzdpd0owRExVNkdQWlVmQU5WajRrTFRpZG1lOWhMX0djQzJUbFM0?oc=5",
-     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-     "source": "Eye On Annapolis",
      "new": false
     }
    ]
@@ -176,17 +176,17 @@
      "new": false
     },
     {
-     "title": "Coconino County confirms multiple cases of measles - 12News",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0p6bFk3NkRZb0Zjc3g4VVl1QlhqdzNuTmpDSnlEYTM1a3NwUWZxSGFBMDd6M3BqZVAxeE43UmZkRVhJMWxxY2xWWWoyTVNPTkVmMk5FaEY1bEJUMHdBWk5iQk9FVVhWSVFjSXh4bUJyWjFhMVl5VlV3THd3VDYwcUZXNUJVMmhDVVozTUs0SEJrTHZKdzhKMVFISThvTFc0bTBoeHNXYnhhQkptZFhXNkhuUUVBN0dsQzRDS0xrRDMzZjBTZjlFM1d6MWVSM3pmcGEzcWhDVjFnTVE?oc=5",
-     "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-     "source": "12News",
-     "new": false
-    },
-    {
      "title": "Coconino County reports 2nd measles case - fox10phoenix.com",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjRmbVdsLUJxSVlWODRwNXprSHRYVUVJS3BIN1RjNXc0NkNBTjdMWW5id2FFNGJRMDVsNUNQazdVWlp2REFzWG9aUzhSQjNSdzBrTDJCNm5NcVNrTmJmSEFULXpRMmFsd2ZVTkphbmxVVEJwRlJnaEhtZmFFMldUaFNYNlFqWWtkUDZfdTlBQm00cGpBY3FkLVlqeDFZUdIBowFBVV95cUxQODNBQmJ3YmNFTmN0MTJISk5hbU5sem9nVXdCY0JnODVPWlk1Vl9TTlFYZ2U2NmlWNmtsU1dCazlKWlNJTGhKNHVMTlNmaWxBVlNJNFB1TWpuT05kdzI1UFVnVDJ1d1BHbEtHU3JuVGNiOGstbW9RdHhNVEZpQXlrbl9XN1pVLVlXQ25hVG5oWHVFV1plUVIwVTlsYVdVUDdLX184?oc=5",
      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
      "source": "fox10phoenix.com",
+     "new": false
+    },
+    {
+     "title": "2nd measles case reported in Coconino County with public exposure details - KTAR News 92.3 FM",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoR2JTbUNQbzNwbFQ5TjM2MzhYb1JIOHcwc2hvbVNHSFdoU3pMc2RtUW1fZHdEdTNmckF5eXh2N0ZIOEJRQ29KWGpyWXJUcGhxam1kbGRXNXRtVzVLMzBjaDZydWFJTWI2Q0hjVUVodEJOOEU?oc=5",
+     "published": "Tue, 31 Mar 2026 07:00:00 GMT",
+     "source": "KTAR News 92.3 FM",
      "new": false
     },
     {
@@ -197,17 +197,17 @@
      "new": false
     },
     {
+     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
+     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+     "source": "Axios",
+     "new": false
+    },
+    {
      "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE53eUE5YTFMaGt0UFR6UEZxT2hnVm9YdS1ucFI1Y24tV3ZwUXBfRHVVS2ZISEtITHZzcmhqNkd3QUNyWlY4aGN0ZjROUnN4alJydU51ZElBTHAyeG9pQU1aaVkzTEZ2eC1UNEg1d05ZT3ktY2s1NmxKLXFQWUhBSnM0VWFLak5iQTZJUFpsWHJIQjFmeTlLeGpNU25nc2ZKMHlNV0hsUnpjVmvSAb8BQVVfeXFMTlFsSWh1dU54RUVhQXJGb2dfVzdvczhlc3dGSnNHRXVRLTZKekIxd3FNYnRVaVR5TU5IdVZ0ak9iQVdEdEpObHhjLXZBbmMtU1hFc0NWMEg5MTBUdXU5bWRHajltamQzVnRiclJQUC0tNXBXNzVYTXc4c1ViaTZyRlctWFB6NGVsaUVPVlZOTDVtNzFvMnpXNVRGejlFaUlQVjEtUHgwNUpYNTBERm9fYjdPR3l3ZVMyZjNpRDJpTkU?oc=5",
      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
      "source": "AZ Family",
-     "new": false
-    },
-    {
-     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - axios.com",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
-     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-     "source": "axios.com",
      "new": false
     },
     {
