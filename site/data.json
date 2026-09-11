@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T16:43:59+00:00",
+ "generated_at": "2026-09-11T16:48:54+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,15 +9,19 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of September 10\u200b, 2026\u200b\u200b"
+     ]
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of September 10\u200b, 2026\u200b\u200b"
+     ]
     }
    ],
    "news": [
@@ -29,21 +33,14 @@
      "new": false
     },
     {
-     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-     "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-     "new": false
+     "title": "State health officials issue vaccine schedule amid ongoing shifts in federal vaccine guidance - marylandmatters.org",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzNWUXlrUm9tTGVwclZIZnFBNU9IWUtDTHlMbVczUlllb09NVkFXSVdDNnRrUENmLTlSbDEzOEx4TGE3V1VSQ2ZiT1RXOXJOZ1dON3h5aWpBcWNRWWZ6MkZ3bnczX2FMMmpqTGQzUGZCYmVMVm9zMTFPdUxySE5DaDNWeVdpQmptZnpyRXoySzVNLXlnSkJfSm9yV3ZUVWdkb1lnS19jYjU1YzBVLWlPT0FXYTNvSXVWeFFackE0UGJyYWljWWN1RnBkaFdkQQ?oc=5",
+     "published": "Thu, 10 Sep 2026 22:27:06 GMT",
+     "source": "marylandmatters.org",
+     "new": true
     },
     {
-     "title": "Vaccination protections \u2018teetering\u2019 as state declares measles outbreaks in 3 counties - Maryland Matters",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0xBM2VEaE5iWV9PWHpPS1RaLWhwcUE5dEFYT3UyMDVsd2lUbnFpSlcyMHFrMmVwS0llN2Q5WW43VzE0X3lCc2gwTFh1V01uUFhYdUUzSTIxb0wzSnI5dG5hSi1BT2JNU1B0RTl5NnJNdHVPbHRBWkZNM1dRMXR2d0NKa0Exb01aSzhHXzdwT0cyaldfYU1qd1g1aElfQTJKc3BFd0pBa29TS1B4dmdrQkpaQ0VXVFlOLXJoVXdhTVg?oc=5",
-     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-     "source": "Maryland Matters",
-     "new": false
-    },
-    {
-     "title": "Measles outbreak declared in 3 Maryland counties - WBAL-TV",
+     "title": "Maryland Department of Health declares measles outbreak in 3 counties with 14 new cases - WBAL-TV",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hYOHVWYW9qUU94T09Pa01uWllDcHBWRW5UMHpuSGtPSjBWWUNUcm9xUTZQNGRMd2NmZ3J1aVJwclhaNkVaaV9meTR2aUdYZkk4THd5WU9aWktodHJpWkhfRjlMTVRPREszWTctRjgtbkZhLWRBdWdibzBQNWhDRW5vWWZwQU5xV05nWWdSX0J6M1RRaElKMGYzRjdkdw?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
      "source": "WBAL-TV",
@@ -54,6 +51,13 @@
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjMtSFBjMEJUZUFBZHNXZzhsbEJqN2tXZ2NyOTNqeExQTkgxMEk3VkVuRXlFSHdkcTE4OWZBNU9ZVTZCcWlEcUpZS1oya0xSRG5oTFk0dE9lNDdrdjBwUUhza2xuUW5HTzZveDIyVWxqejNoalhwWlZXYUlrb01WZFBITDFYbWtOTW9WQ1lHeVZxVkY5cHc?oc=5",
      "published": "Thu, 10 Sep 2026 00:20:30 GMT",
      "source": "WTOP News",
+     "new": false
+    },
+    {
+     "title": "Maryland issues its own vaccine guidelines for first time under Vax Act - The Frederick News-Post",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd08zamY0OFNBZV9WMVU3YXpjZ0hmekYyallydFh0QVpjY0FLb3EtX0daMEk4WVp6T1pTdlFTbGRPVEFqSVptN2JaT1RCYzlqbG1zUkh2VGFCcjl1Ml9OSXJhWWZrcHQyZ2pfUHFkQmctYXZQemlwZGdXejhRVXBDdC1iSG4tbDI0VFZSNjN5VDFpSzRrSXdUOTJFam1KX1ozWmVQREd1WnFFMXVaVUlud3VFREZHUnNkMEVMdzBnMU1VX1FtREpac0NTSUpQTjFQR2FuNUpSZXZHTER3QlE4ODFlN2l6ZnlWZTZwajFwLUxSNTVNVXpoM2M2MjlGUFRFN1FrQ185QVJIWmVRTmxwalRTS3YtaEFaWFE?oc=5",
+     "published": "Fri, 11 Sep 2026 00:35:00 GMT",
+     "source": "The Frederick News-Post",
      "new": true
     },
     {
@@ -64,31 +68,17 @@
      "new": false
     },
     {
+     "title": "Vaccination protections \u2018teetering\u2019 as state declares measles outbreaks in 3 counties - marylandmatters.org",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0xBM2VEaE5iWV9PWHpPS1RaLWhwcUE5dEFYT3UyMDVsd2lUbnFpSlcyMHFrMmVwS0llN2Q5WW43VzE0X3lCc2gwTFh1V01uUFhYdUUzSTIxb0wzSnI5dG5hSi1BT2JNU1B0RTl5NnJNdHVPbHRBWkZNM1dRMXR2d0NKa0Exb01aSzhHXzdwT0cyaldfYU1qd1g1aElfQTJKc3BFd0pBa29TS1B4dmdrQkpaQ0VXVFlOLXJoVXdhTVg?oc=5",
+     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+     "source": "marylandmatters.org",
+     "new": false
+    },
+    {
      "title": "Doctor warns Maryland parents about measles as school starts - WBAL-TV",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFMUVpuZmdnd3hDcl9YcW9HQmVqUWNVSjJMb2NsbEtVZzdYZmtVR2g5dy1MeWxDNjlJQUZ1LThIbFZ4QVRWeXFtVVhrbDZLYWRQbXpmSThuM3lkUHFKTVhBUV9iTXJCeWNyOE5OUXp1ang5d01FdmxRN3Z6bzhGWWo3TGo?oc=5",
      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
      "source": "WBAL-TV",
-     "new": false
-    },
-    {
-     "title": "Measles outbreaks declared in 3 MD counties - Maryland Daily Record",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2lWUVFTT05Qc19NSGJNNmZIOWt2azNvT05ncXFFZmE2SkJ2MVRyejRyX1FwelY0SnJhNThxTi1JcjNfb1UxWmowZFpwVFZBVnY3cVJlRGxFblJGSDB0cVJIT2N2S3BuN3JXTzhqWFJRNkJCY3BVSzdJVk1tbEdYNG05UG9wd1BBbGtYQW93M1U?oc=5",
-     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-     "source": "Maryland Daily Record",
-     "new": false
-    },
-    {
-     "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak - Baltimore Sun",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVzloblRkUWYwS0hDYmhRWk94R0laeUxBcUlrZ3k4ZEFzVzlnVmZ0RFViMkRaVDA5TEprS09OYTItcldrWTZkN2lWcFJtZC1YOHM1OHhMbjZDdEJUSktHSXdxTVNqUTFQZ0RJN0sxOWs?oc=5",
-     "published": "Wed, 09 Sep 2026 22:20:07 GMT",
-     "source": "Baltimore Sun",
-     "new": true
-    },
-    {
-     "title": "Measles outbreak in three counties shows importance of vaccination, officials say - Maryland Matters",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlhpY2JyQkdOLWhodW9wMXU0Z0tLVGZyQjV0OW1yUnRGRjVqNVl2WExwbkJMTkJRV1JwMXl5NHJZcy1UWlBRallrVXZKVVQzdTQtTGlkRF9JWjl0a1NoZ3J2c3hBbjV4Q0Y3WGZySDhBdkkyeEVWMUNUYUdnNTR5RkswN3dXTGtTZnlaOHRodmtpMVZ3WWVRaVAzb3VSYk1PZXh5Xy1BTGQtR0NyQTZSSHBwM1NGLWNGTEF2Zw?oc=5",
-     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-     "source": "Maryland Matters",
      "new": false
     },
     {
@@ -99,10 +89,24 @@
      "new": false
     },
     {
-     "title": "MD Confirms 2 New Measles Cases - Patch",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPU1QxSUJpM3g0Y2cxNnlCTXF0ZnJCQ0NKVmRlMjU1aFh2eGVJSHlfVzZnMzFESWxHSWZxUjdKNWZqNGRsSEtNSFhRT0I1SGZsOGhmTWlrUDRMZlNrRWJUQldGR0VTZHNUSU5xbDJJeEVpWVVHeVJBckln?oc=5",
-     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-     "source": "Patch",
+     "title": "Measles outbreak in three counties shows importance of vaccination, officials say - marylandmatters.org",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlhpY2JyQkdOLWhodW9wMXU0Z0tLVGZyQjV0OW1yUnRGRjVqNVl2WExwbkJMTkJRV1JwMXl5NHJZcy1UWlBRallrVXZKVVQzdTQtTGlkRF9JWjl0a1NoZ3J2c3hBbjV4Q0Y3WGZySDhBdkkyeEVWMUNUYUdnNTR5RkswN3dXTGtTZnlaOHRodmtpMVZ3WWVRaVAzb3VSYk1PZXh5Xy1BTGQtR0NyQTZSSHBwM1NGLWNGTEF2Zw?oc=5",
+     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+     "source": "marylandmatters.org",
+     "new": false
+    },
+    {
+     "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVzloblRkUWYwS0hDYmhRWk94R0laeUxBcUlrZ3k4ZEFzVzlnVmZ0RFViMkRaVDA5TEprS09OYTItcldrWTZkN2lWcFJtZC1YOHM1OHhMbjZDdEJUSktHSXdxTVNqUTFQZ0RJN0sxOWs?oc=5",
+     "published": "Wed, 09 Sep 2026 22:20:07 GMT",
+     "source": "Baltimore Sun",
+     "new": false
+    },
+    {
+     "title": "Two Measles Cases Confirmed In Maryland; Possible Exposures Listed In Anne Arundel County - Eye On Annapolis",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0ZvWS1QYTM4eU5KSEdkbC1NTkRaOGIwS2pOTXlkblhqLUZERjM2cDBJZ3hmTGpMQVE5ZkpxSmc0dDJ1V1lTV254cEtXSnhVMDdJMGZzM1pSdVF5dl9VcUtWMHcwZGV4NEpaRFdKSHJLSkZGNmx1WFZwOXBnUDBUazVsWXl2RkJXakV6UUZUeVVxZXUtNmRQcjMxYWotMFFwUzdpd0owRExVNkdQWlVmQU5WajRrTFRpZG1lOWhMX0djQzJUbFM0?oc=5",
+     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+     "source": "Eye On Annapolis",
      "new": false
     }
    ]
@@ -148,17 +152,17 @@
      "new": false
     },
     {
-     "title": "Yavapai County confirms measles case in Prescott area - KNAU",
+     "title": "Yavapai County confirms measles case in Prescott area - knau.org",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRm9VUF9CTmxfaklJOTlqREFtcVdmWHdHMnRHbDdzZGRyb2xqLWNCOGN4dU1xNzNBUDUwa2J5ZXpOWnBVa0hZWU0weWVIREw5U2dOd3J3RHIwd2pWX1BiTnkwN3BXbXhQOGwzTUZoaktmSG8yVmRKa1JGUFlsSDd0ZE9WTEVkNDEzUHdna2xkUnc4d2JZYmVBS3c4S2NnNnRzNzRSTFpTTGlpTFE?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-     "source": "KNAU",
+     "source": "knau.org",
      "new": false
     },
     {
-     "title": "Measles case reported in Yavapai County; virus detected at Sedona wastewater plant - AZ Family",
+     "title": "Measles case reported in Yavapai County; virus detected at Sedona wastewater plant - azfamily.com",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZJYU1nVVpYWTN1RjhjeWQtUHVhdkxRUk0wNGtBSlpGaFZWZWpTN2M4VjYwRUV1SUs5LVFxMXpNTzNFOThMMmlLVmdGckREeE9uQVYta2pNZHVmc3MxMHR3aFBteUp5dDh4TTRBcFI1bkMyRE9nUjgzSGpoYVh2Umdfd0xvdkM0bG9HLUFmdjRhUnhISzF3RGpqSjZwUmRTTlBwblJzb2c4dWVaQVZWbmhR0gHGAUFVX3lxTE0waWhscHFNNFhfUFYzZnhfNVNUazU1bnB2OU1qYnhId2c3bVdmNVFwZGstVUNhS2FyTmkwZ2owa1lBWkVyRUpJVzdCdE53aDdHbkJ3WlpMc1lHTERFWUYtZEZmSEwwSXRaRWdTRmVLZFNmbXNZUm1FZklxZHlnTDRqdFl3UlBKYWJ3akFoVXdsdEdUOXlJOGdzT2VmUWhQMnRxcm5nUTc1R3pTUkVWb1BQUlU1UGt4SEhkNTlFTDR5X2d6bl9NQQ?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-     "source": "AZ Family",
+     "source": "azfamily.com",
      "new": false
     },
     {
@@ -176,24 +180,17 @@
      "new": false
     },
     {
-     "title": "Coconino County reports 2nd measles case - fox10phoenix.com",
+     "title": "Coconino County reports 2nd measles case - FOX 10 Phoenix",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjRmbVdsLUJxSVlWODRwNXprSHRYVUVJS3BIN1RjNXc0NkNBTjdMWW5id2FFNGJRMDVsNUNQazdVWlp2REFzWG9aUzhSQjNSdzBrTDJCNm5NcVNrTmJmSEFULXpRMmFsd2ZVTkphbmxVVEJwRlJnaEhtZmFFMldUaFNYNlFqWWtkUDZfdTlBQm00cGpBY3FkLVlqeDFZUdIBowFBVV95cUxQODNBQmJ3YmNFTmN0MTJISk5hbU5sem9nVXdCY0JnODVPWlk1Vl9TTlFYZ2U2NmlWNmtsU1dCazlKWlNJTGhKNHVMTlNmaWxBVlNJNFB1TWpuT05kdzI1UFVnVDJ1d1BHbEtHU3JuVGNiOGstbW9RdHhNVEZpQXlrbl9XN1pVLVlXQ25hVG5oWHVFV1plUVIwVTlsYVdVUDdLX184?oc=5",
      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-     "source": "fox10phoenix.com",
+     "source": "FOX 10 Phoenix",
      "new": false
     },
     {
-     "title": "2nd measles case reported in Coconino County with public exposure details - KTAR News 92.3 FM",
+     "title": "2nd measles case reported in Coconino County with public exposure details - ktar.com",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoR2JTbUNQbzNwbFQ5TjM2MzhYb1JIOHcwc2hvbVNHSFdoU3pMc2RtUW1fZHdEdTNmckF5eXh2N0ZIOEJRQ29KWGpyWXJUcGhxam1kbGRXNXRtVzVLMzBjaDZydWFJTWI2Q0hjVUVodEJOOEU?oc=5",
      "published": "Tue, 31 Mar 2026 07:00:00 GMT",
-     "source": "KTAR News 92.3 FM",
-     "new": false
-    },
-    {
-     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-     "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+     "source": "ktar.com",
      "new": false
     },
     {
@@ -204,10 +201,10 @@
      "new": false
     },
     {
-     "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - AZ Family",
+     "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - azfamily.com",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE53eUE5YTFMaGt0UFR6UEZxT2hnVm9YdS1ucFI1Y24tV3ZwUXBfRHVVS2ZISEtITHZzcmhqNkd3QUNyWlY4aGN0ZjROUnN4alJydU51ZElBTHAyeG9pQU1aaVkzTEZ2eC1UNEg1d05ZT3ktY2s1NmxKLXFQWUhBSnM0VWFLak5iQTZJUFpsWHJIQjFmeTlLeGpNU25nc2ZKMHlNV0hsUnpjVmvSAb8BQVVfeXFMTlFsSWh1dU54RUVhQXJGb2dfVzdvczhlc3dGSnNHRXVRLTZKekIxd3FNYnRVaVR5TU5IdVZ0ak9iQVdEdEpObHhjLXZBbmMtU1hFc0NWMEg5MTBUdXU5bWRHajltamQzVnRiclJQUC0tNXBXNzVYTXc4c1ViaTZyRlctWFB6NGVsaUVPVlZOTDVtNzFvMnpXNVRGejlFaUlQVjEtUHgwNUpYNTBERm9fYjdPR3l3ZVMyZjNpRDJpTkU?oc=5",
      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-     "source": "AZ Family",
+     "source": "azfamily.com",
      "new": false
     },
     {
@@ -215,6 +212,13 @@
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDRaMHlKWERCeFNuWWFvVElHMHZ0Q2tKbk1OSjN2MDNQckthdE1meTZvR0M5VEtzS0dKWlNMejh6bU9vd0diNGZOX1FrMXpDY0NOOGE0enVrYkxBY3JxcTQxZ1JtbkV1TTdHVUdnc2lUU0dVTzF2WDZMOWdXeGsyQWE5b3QtM21lU2ZncWYzMA?oc=5",
      "published": "Wed, 08 Jul 2026 00:25:08 GMT",
      "source": "Arizona Daily Star",
+     "new": false
+    },
+    {
+     "title": "Central Valley Counties Actively Monitoring Agricultural Workers Exposed to Measles in Arizona - Merced County",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Y2ZjR3UtVkM5dlZIalh1dERsNEdBaWF5VHBNUUNTMGRpMXg3d0Q3eXZRb0ZfN0diY3ducTJFX01NTXZ0M2lJVFJwbWE2R0RfRTdTMktVMVJ1bXlLbVQ0ODM1VVZtSTQ?oc=5",
+     "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+     "source": "Merced County",
      "new": false
     }
    ]
