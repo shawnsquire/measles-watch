@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T16:47:09+00:00",
+ "generated_at": "2026-09-19T16:09:06+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,28 +9,24 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of September 17\u200b, 2026\u200b\u200b"
-     ]
+     "changed": false,
+     "new_lines": []
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of September 17\u200b, 2026\u200b\u200b"
-     ]
+     "changed": false,
+     "new_lines": []
     }
    ],
    "news": [
     {
-     "title": "Maryland warns of possible measles exposure at three Ocean City locations - marylandmatters.org",
+     "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGs4clZnVGNJQ2xCcVg5QkRON0VQNjBKYnN1QUZ0elZRQk01bjNhZFA1SDJnYVQ5azN0UVNaSmFkbkpOUFFGWDRXZGFaV1VRUGZZQVpPWVZSclhPcXI1d2syR01aTWZ6Y0prbkdXaXVURzlCQk8xQ2tBbWVqbm1vTWp0QmxzeWU3azRodVJrN2lJVktZV3IyMUQydHN0OXhtLWxnY0U2eERVNEFEQzhiZk5vWQ?oc=5",
      "published": "Fri, 18 Sep 2026 02:27:47 GMT",
-     "source": "marylandmatters.org",
-     "new": true
+     "source": "Maryland Matters",
+     "new": false
     },
     {
      "title": "Maryland warns of possible measles exposure in Ocean City during Labor Day weekend - WBAL-TV",
@@ -40,38 +36,38 @@
      "new": false
     },
     {
-     "title": "Measles is back in Maryland. Here\u2019s how to protect your kids this school year - Maryland Daily Record",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09HcU5XdURMVFNMTlV5RjlLanExY2ExOWM3WnI4ek5kRkdKelhCQ1E4TXo1c19aSGdNRWNDNUFYZDVQTElkMmhtRmtqcDRhZ3hka1FjZW1sVE9wRWdYSHUyWkJxUzNXemFERnpJUnpTZnJwd1BocTg2WEpOVzBzZGR1ZXN5bDgzc1RSVkZpaHI4dEda?oc=5",
-     "published": "Fri, 18 Sep 2026 10:08:08 GMT",
-     "source": "Maryland Daily Record",
-     "new": true
-    },
-    {
      "title": "Maryland issues notification of possible measles exposure from person who visited state while infectious - Maryland.gov",
      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZkZuMXFTVEUzMjJFRlN5QW91TENMYnVpTFFMRTBkT2RBejBXMloyb3FONTNlMVdpTXJmQW1xallRNXlLMnFsTGNPMW9VVTYtYkF3WW42eGNna25YZW1HUEhYQVR3c0NIbE41NzloN3hISkM3a1FWQjdxMmJQd29ycUk2eVJIVTNaZXBDNDZkNnFFeUZ0aUJlS0tvSklnU29Cc2xkM3YtY2xZTTRJUmZoRlhPYWVlakJNNTBiWDdCMXVNNFNLS0hzTWpuZkNyQ1kzQ051YWt1bmZCYW5HZEZwNkJIOGFSOGpEdHRCVHdGcWhWdzlGekZZeEZuNGhvbnFxbHRKQnpsYlJrcW9NTlZUZk9HcHNKdjdOdVZtVjU3dmxSdG03V3dKNDFR?oc=5",
      "published": "Wed, 16 Sep 2026 21:54:19 GMT",
      "source": "Maryland.gov",
-     "new": true
+     "new": false
     },
     {
-     "title": "Maryland's Department of Health announces potential measles exposures in Ocean City Sept. 3-6 - WBOC TV",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcWlHY0RleEZPTzg3aTRZNTBDZWQtV243LTZOZlhfdk9fTVNGcnJySlR1M0hHYUl5NUN2TmhuQUlxLTM5S0RYUmh1bU9IM09zVlV4QmtWeFBKdEE4RWdZTmFldnRpb3BuV1RxNVdJS2J5QTFKUnVBS05TcGFlRGJ4R1VpNURLYl9BTkJOeEk2NF9LUGJtc09jZWp3NmVLdm9kYTREblNEVUJvek5zM1h5RnFpdWp1WU4wV1NiaFRWRHBHeG00NmZCeG5ybnZ5WldPQWNNaUgzaFNXSk1XTGItQkh2X0xqLUQ3M2c1b1JYTTNBMTBfREFLNg?oc=5",
-     "published": "Thu, 17 Sep 2026 23:49:00 GMT",
-     "source": "WBOC TV",
-     "new": true
+     "title": "Measles is back in Maryland. Here\u2019s how to protect your kids this school year - Maryland Daily Record",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09HcU5XdURMVFNMTlV5RjlLanExY2ExOWM3WnI4ek5kRkdKelhCQ1E4TXo1c19aSGdNRWNDNUFYZDVQTElkMmhtRmtqcDRhZ3hka1FjZW1sVE9wRWdYSHUyWkJxUzNXemFERnpJUnpTZnJwd1BocTg2WEpOVzBzZGR1ZXN5bDgzc1RSVkZpaHI4dEda?oc=5",
+     "published": "Fri, 18 Sep 2026 10:08:08 GMT",
+     "source": "Maryland Daily Record",
+     "new": false
     },
     {
      "title": "Maryland health officials warn of possible measles exposure at 3 Ocean City locations - CBS News",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZThQQkNpNEdQQk5MYy1YTmo3alFnTGNjaUwtUXlRVExrdHBIdGtJYlBhNEx0OHNDaFVVTUhtVlRtUGY3R25vSWdsdFg2WDV1QTJYVks3bUJLS0pVNzlnWUwtYWhmTkF1SFFkMzlDQWQtTnhoYmViUFFRcktJb2xBazhjMUNhdzFVM29aamlQOGZ6SUNmNHQzcDNSRElpY3BDQ0pKckYwMHFZbHBVSW5qS2M5Z0ZBeVUzbzRhMFZGRWh3Y3c?oc=5",
      "published": "Thu, 17 Sep 2026 00:45:00 GMT",
      "source": "CBS News",
-     "new": true
+     "new": false
     },
     {
      "title": "Maryland health officials release list of potential measles exposure sites - WMAR 2 News Baltimore",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWXJaWGpmTHh3ZnNWUUtfWmoxQmFsM3BCRWRvbTlNVzByZFNKVU11ZUY3TDhuakhDeFFIQkxzb2JCUGNZMEVKLWtSRmFOOE02TlcxYUt2bWhiR3VjQk9weE4tTUVHcjgxeFR4dERHLU81cnIwUjRhVDBZbm5IaVZLd0xlRVdkekZBNjFFYXN5dlQzNXJqVUh5dG5qQXV3a1l2Ykc4T1RWRXdTdl9XalFxNTltSkc1RWk0ZnBNdTRlQThiV2ZsOVJEMA?oc=5",
-     "published": "Thu, 17 Sep 2026 09:04:00 GMT",
+     "published": "Thu, 17 Sep 2026 12:02:49 GMT",
      "source": "WMAR 2 News Baltimore",
+     "new": false
+    },
+    {
+     "title": "Maryland warns of possible measles exposure at 3 Ocean City locations - Hanford Sentinel",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWxMcXdRQ1JYYmJabGU5aEcyQTFSTXl3Tl84M1dMVmtJLUY2c0F4UmFfMnBYTmVXeDA4M0VBV1B4RnhEQkJPVm9EUlprZ2NxSXRFeWU2ZkNrRTVQeVpnRHlZOVpnRmZ2VnFIN2JVdEZlQXhVbXBxTzdlOENTUmU0YjliSTZMaWNfSkUtUmo3bm52ZEpwcGdYSWlyTERYYVRQNHdUUkh1MHE0aG5TMkwwdGZnQkw2Smlua2VKVmNRYjR1NkdPcHU2cDJXdGRudVBkd0s5LUE5NW1Jc19FUW9HU1VEYWI5elJtdUgzWmNZV0U3QWvSAfgBQVVfeXFMTVREZGE1NWlick9pQUUyc2xaNVdpODhKemlGSjR6UWlGeHVxRHpJNGhfYlNMYmJjRWY5ZnRnM1dHbUZKYlhrdWtRQUtqSGRHVXlLcHYyUVlRdjJxc3FpY3BraGYzV0tKRG9DaExUOW51Ym1PUXhZckRmTlY2cDNTTS1oR1ExUlBWcXRTME5tRGtfNDVEdVVwNXVUVFNJZ19SZHhWSHZvYmtBLWRXd2VUSUUwd3FaVDJBWm5IbUJpUjBXZWs0a3VyZlNIUXhzNm54QXRGdVhUcjItZTRDVmlyRVpyWV80b0MzRTBTUkJycExlU2xMRHlzTHQ?oc=5",
+     "published": "Thu, 17 Sep 2026 15:13:00 GMT",
+     "source": "Hanford Sentinel",
      "new": true
     },
     {
@@ -82,18 +78,18 @@
      "new": false
     },
     {
+     "title": "Prince George\u2019s Co. police announce charges in 1993 missing child case - WTOP News",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUVnLThXVmk5SEY2NGZSLWJjMEdmSkRZTHJibTZYRVBQUHl5V0tuMGMtUU5TQ1M5a0tfV1NWV0RmZmg4ZUl5YmRfWVphVkNvMERzZ0pzOWtGdWJhSkp6Z1BnWWJ6REVCSnZjQW5YLW5QZzYyMHRJM3pSRWQ4dE8wOUktLUdOeUtUOVdfWDVrajh1V2VSNldubnkxTVpLWXVubTFtdkR0V2thSGs?oc=5",
+     "published": "Thu, 17 Sep 2026 22:47:47 GMT",
+     "source": "WTOP News",
+     "new": true
+    },
+    {
      "title": "Pages - Two cases of measles confirmed in Maryland residents with recent out-of-state travel - Maryland.gov",
      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTTlqXzN0VUV6c2ZCQ2FLbTNEWi1STEVsYnJZQkw2aHNNU1lONlV2OGhkaTlFTWUwU0xpLWFrVUFLaXdKSU1INDFzc2QzdGxham0talZFSWZpZTRucFdVZThPcGI0UndHUWk5eFFleE9BbHdYODhjUjROUUxVM1ZVdGF6N1F2SFh6Tno2M2xubWloWDRlRnRXX3JXWWNELTN2aFBHNjZyZzdsYkdsdzJCSWxYamxVVFppWU51M0FIWHhFSEZPdjhxeUFZSkNXWkpULWFtY1JGMktTWnlxNkc4cC1pR3VlS2k0LU4yWE1Tbw?oc=5",
      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
      "source": "Maryland.gov",
      "new": false
-    },
-    {
-     "title": "Prince George\u2019s Co. high school teacher charged with child pornography offenses - WTOP News",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnVHVmlmQ2JEMkVneF9TaTFTT05mTXg4bDdHZ2JhdUFGUnZDcEJVYzhFRjRQOW1ONHFtSzNkZVZKZW5oaXNMRTNZRjFxX3hkVTM4X2lXaTRXU1NHT2ViTFN6NDFCN1NINGFVZlVGVWJ3WWRaUkRwT1E5ZWR0WjVLME1WX2xtWUVUdXptbkprMWpGVFFEbGlNZzMzaW1CYUstUjFId21jWEpJUjhFMkhPTmVR?oc=5",
-     "published": "Wed, 16 Sep 2026 15:00:56 GMT",
-     "source": "WTOP News",
-     "new": true
     },
     {
      "title": "Pennsylvania officials report state\u2019s 3rd death involving measles - Baltimore Sun",
@@ -103,10 +99,10 @@
      "new": false
     },
     {
-     "title": "Maryland reports 27 measles cases since July 15, all among unvaccinated residents - WJLA",
+     "title": "Maryland reports 27 measles cases since July 15, all among unvaccinated residents - wjla.com",
      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPbjVPRVFET09hRFlCS0lILXhGLUJNbkdtdTA3SDdBcWdtSWgzNER0YUFmcEdUZVFvOVVWN19XOHZRSmVfRS1laFpUXzNkUVlFM0JEdUgwM0REODVkZHgwWWNOWnFaREpfS0dVRHJGb3hyMFR3b01OdUFwOF9SR2RJNm5qdlY0Q0ZuVm52bGhMT2FKSnNScFJqbjhYaDhTa1lRNUlYVFRSM2k1RlVTSTFNZDIwN1oya1BJU1JsdW80VmFBTTRiMF9HZUZjM0o0UmRrUVBOS1lLLUVGZFVjb2dORnNMbE9PUm41VWlualBnY3BnbGs5UURtNjBRODhUSGFpY0dQbVRfV1E2STBXM2ZGeHRQMm4xMUYzZk54Q1kyRUxxNHJfT2p5YXVFZ2xZVVpqV1JHem9nelFKd1g4SFpyRzNVV0JJVTM2QmRVa1BvRGRmNlZhTGpQaXgxN2xlM3NFT1ExVGlEUGxtZ1pQOTlIT3l3UlRyOVU5Ry1sdW9UOHhFSE9wVW1DcmltaHN2c1Qt?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "WJLA",
+     "source": "wjla.com",
      "new": false
     }
    ]
@@ -198,6 +194,13 @@
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3FHcEZSb0RDRENYRVFGSTc2WHVOZFlTQ05vQXdrSThqT3lTcFVWVGo5MWhVT0ZtQXRWcjJJRVFhMzdOaUNjbDNseWdwMXNoZGY1OEFSLW4zbzB4MmN6bUxrUzlKTmpqaGZRVDZkLXA2c05SWUNvQkZfckpZbEpnQmtKX2laNHpvRXUyTGcyaVMwLUxxLWdxN3N6T0haV2EtZ20zNGxRRULSAbwBQVVfeXFMUG1hMnEzV1RMNkk2bzBLSWVuRDJCVHpJZFpleXJfM1NzLVZ6YzlVbG1KdzJjSm0yYjd3S2JnNGxvR1h4S0Y3T1hfejNWdkFyUmVKQ0lISW5WbG5VWlhtS0Y0aFl4SHFqcFRlY0dyZ2EzX3VqMFVlMkE1UHc2d1Q1SGE0d0hKWkZmb2dOSnI4RWItcDRZd09PSHFObnFWM1JrSndyOW8wTnVBX3BDYjBJYk9tWEZabFF6MUxuZ2Y?oc=5",
      "published": "Thu, 17 Sep 2026 18:47:00 GMT",
      "source": "AZ Family",
+     "new": false
+    },
+    {
+     "title": "A person with measles was at a Scottsdale store - Arizona Daily Star",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWpSbnUxbXdPSmFqajNuWjk3VE4wSjAtM2trUFZtMGY3cTJnS1V4YXJXYkIxaF9CVFVKa19GVU5FVlhRTUtlNGMzcU5MakNVUWktZmdvc0lDa2xkODU3YnJ3Q2xqQlpOUFBYeWJjeHBKQkJlazFNUVpkYTRYRV9UZ1ctSzl2Q2VCMWxqMTZXZ2FTQQ?oc=5",
+     "published": "Fri, 18 Sep 2026 01:54:18 GMT",
+     "source": "Arizona Daily Star",
      "new": true
     },
     {
@@ -205,14 +208,7 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNnhscjA0TzdRbEtGNGZ6WWZyeTVJTVVDY01vS2xOX0ZsTHcxTFgzNEdCVjd5YmVnLTFWcHBCeWw4MEVtUTJxa3EzX0NyNkNDTG1zaWZuOVF3aVRyVW9WQ29rT19yNzQxYkw0QnNrUGVUVURy?oc=5",
      "published": "Fri, 18 Sep 2026 00:16:40 GMT",
      "source": "KTAR News 92.3 FM",
-     "new": true
-    },
-    {
-     "title": "A person with measles was at this drug store in metro Phoenix - azcentral.com and The Arizona Republic",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkw2UzdlSVhoQmhtcTdzMGtWUzJBb1RCRHo5RVdKSE1Rb0RkVVdmWlZ5UE9uSHFhYWpiZ3dBQVFxX0ZKRm9NZE1DWkI2ZnRhVzM2WFJlSnRacXUtelFjNnhXdGRPajZFcUFPUjlMTk01bGZIc2FHTElWTlhLV3BKTi1hZC1Nb0NfY3hwTE1yWDlIb2tuanRXZndyLUFpeEJDZnBQUEpaamhBaWVFbWZlX3Y4d1EzWlE?oc=5",
-     "published": "Thu, 17 Sep 2026 23:45:00 GMT",
-     "source": "azcentral.com and The Arizona Republic",
-     "new": true
+     "new": false
     },
     {
      "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
