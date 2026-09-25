@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T17:37:59+00:00",
+ "generated_at": "2026-09-25T17:37:12+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,15 +9,19 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of September 24, 2026\u200b\u200b"
+     ]
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of September 24, 2026\u200b\u200b"
+     ]
     }
    ],
    "news": [
@@ -29,16 +33,9 @@
      "new": false
     },
     {
-     "title": "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - health.maryland.gov",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0VlaUs1X3pCT2tvNHFIQV9Tc09XMHBuNWtVc3YtQzh4Q2hXcGRmTV94VWZpWlVnZk5sYTl2WlpyYnFnaEpPU2prNWNrY2RFaGpRUEdCVTAyVkg1ZC1WYy04UExfNlJYR3ZkYVljZ3Y4WnpXRjlXLUV2U19jak94QTdFYWd1bXYxZ3VQN3VMX081SXc4NGp6Z012REZKS05wR0Y4SmRmeXdaSkcycjZ3UDB2eThfY044Q2ZSTHdEbXk1MUUzMi1HdEx1UVFMQmF4UDZtV1VtTl9xdkpOcHZpRFNuTTE?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "health.maryland.gov",
-     "new": false
-    },
-    {
      "title": "Maryland warns of possible measles exposure in Ocean City during Labor Day weekend - WBAL-TV",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GcmprVXczbDZmcFZhX3dQVk1iQjk5UVl2LWpyeWpzZ3F0akJnWVlmc0xkWkRGRHY0S2lOZi1nMVhmbjFHLXdsRlJ2VUFXRGZudkF4QjN2WnpSX1h4Q282Z3B6ZUJDcEFxTm9GNmRWMldWd19TSUh2ZEM3WDF5UQ?oc=5",
-     "published": "Thu, 17 Sep 2026 00:09:00 GMT",
+     "published": "Wed, 16 Sep 2026 07:00:00 GMT",
      "source": "WBAL-TV",
      "new": false
     },
@@ -50,39 +47,39 @@
      "new": false
     },
     {
-     "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "NBC4 Washington",
-     "new": false
-    },
-    {
      "title": "Maryland health officials warn of possible measles exposure at 3 Ocean City locations - CBS News",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZThQQkNpNEdQQk5MYy1YTmo3alFnTGNjaUwtUXlRVExrdHBIdGtJYlBhNEx0OHNDaFVVTUhtVlRtUGY3R25vSWdsdFg2WDV1QTJYVks3bUJLS0pVNzlnWUwtYWhmTkF1SFFkMzlDQWQtTnhoYmViUFFRcktJb2xBazhjMUNhdzFVM29aamlQOGZ6SUNmNHQzcDNSRElpY3BDQ0pKckYwMHFZbHBVSW5qS2M5Z0ZBeVUzbzRhMFZGRWh3Y3c?oc=5",
-     "published": "Thu, 17 Sep 2026 00:45:00 GMT",
+     "published": "Wed, 16 Sep 2026 07:00:00 GMT",
      "source": "CBS News",
      "new": false
     },
     {
-     "title": "Maryland health officials release list of potential measles exposure sites - WMAR 2 News Baltimore",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWXJaWGpmTHh3ZnNWUUtfWmoxQmFsM3BCRWRvbTlNVzByZFNKVU11ZUY3TDhuakhDeFFIQkxzb2JCUGNZMEVKLWtSRmFOOE02TlcxYUt2bWhiR3VjQk9weE4tTUVHcjgxeFR4dERHLU81cnIwUjRhVDBZbm5IaVZLd0xlRVdkekZBNjFFYXN5dlQzNXJqVUh5dG5qQXV3a1l2Ykc4T1RWRXdTdl9XalFxNTltSkc1RWk0ZnBNdTRlQThiV2ZsOVJEMA?oc=5",
-     "published": "Thu, 17 Sep 2026 09:04:00 GMT",
-     "source": "WMAR 2 News Baltimore",
-     "new": false
-    },
-    {
-     "title": "Maryland warns of possible measles exposure at 3 Ocean City locations - hanfordsentinel.com",
+     "title": "Maryland warns of possible measles exposure at 3 Ocean City locations - Hanford Sentinel",
      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWxMcXdRQ1JYYmJabGU5aEcyQTFSTXl3Tl84M1dMVmtJLUY2c0F4UmFfMnBYTmVXeDA4M0VBV1B4RnhEQkJPVm9EUlprZ2NxSXRFeWU2ZkNrRTVQeVpnRHlZOVpnRmZ2VnFIN2JVdEZlQXhVbXBxTzdlOENTUmU0YjliSTZMaWNfSkUtUmo3bm52ZEpwcGdYSWlyTERYYVRQNHdUUkh1MHE0aG5TMkwwdGZnQkw2Smlua2VKVmNRYjR1NkdPcHU2cDJXdGRudVBkd0s5LUE5NW1Jc19FUW9HU1VEYWI5elJtdUgzWmNZV0U3QWvSAfgBQVVfeXFMTVREZGE1NWlick9pQUUyc2xaNVdpODhKemlGSjR6UWlGeHVxRHpJNGhfYlNMYmJjRWY5ZnRnM1dHbUZKYlhrdWtRQUtqSGRHVXlLcHYyUVlRdjJxc3FpY3BraGYzV0tKRG9DaExUOW51Ym1PUXhZckRmTlY2cDNTTS1oR1ExUlBWcXRTME5tRGtfNDVEdVVwNXVUVFNJZ19SZHhWSHZvYmtBLWRXd2VUSUUwd3FaVDJBWm5IbUJpUjBXZWs0a3VyZlNIUXhzNm54QXRGdVhUcjItZTRDVmlyRVpyWV80b0MzRTBTUkJycExlU2xMRHlzTHQ?oc=5",
      "published": "Thu, 17 Sep 2026 15:13:00 GMT",
-     "source": "hanfordsentinel.com",
+     "source": "Hanford Sentinel",
      "new": false
     },
     {
-     "title": "Pages - Two cases of measles confirmed in Maryland residents with recent out-of-state travel - health.maryland.gov",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTTlqXzN0VUV6c2ZCQ2FLbTNEWi1STEVsYnJZQkw2aHNNU1lONlV2OGhkaTlFTWUwU0xpLWFrVUFLaXdKSU1INDFzc2QzdGxham0talZFSWZpZTRucFdVZThPcGI0UndHUWk5eFFleE9BbHdYODhjUjROUUxVM1ZVdGF6N1F2SFh6Tno2M2xubWloWDRlRnRXX3JXWWNELTN2aFBHNjZyZzdsYkdsdzJCSWxYamxVVFppWU51M0FIWHhFSEZPdjhxeUFZSkNXWkpULWFtY1JGMktTWnlxNkc4cC1pR3VlS2k0LU4yWE1Tbw?oc=5",
-     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-     "source": "health.maryland.gov",
+     "title": "Maryland health officials release list of potential measles exposure sites - wmar2news.com",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWXJaWGpmTHh3ZnNWUUtfWmoxQmFsM3BCRWRvbTlNVzByZFNKVU11ZUY3TDhuakhDeFFIQkxzb2JCUGNZMEVKLWtSRmFOOE02TlcxYUt2bWhiR3VjQk9weE4tTUVHcjgxeFR4dERHLU81cnIwUjRhVDBZbm5IaVZLd0xlRVdkekZBNjFFYXN5dlQzNXJqVUh5dG5qQXV3a1l2Ykc4T1RWRXdTdl9XalFxNTltSkc1RWk0ZnBNdTRlQThiV2ZsOVJEMA?oc=5",
+     "published": "Thu, 17 Sep 2026 09:04:00 GMT",
+     "source": "wmar2news.com",
      "new": false
+    },
+    {
+     "title": "Person with measles visited several spots in Ocean City, cuing warning - DelmarvaNow.com",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZW0wV2pHaE9CYUhHc0FZSy1xV1ZLNjh5ZlpXbjRlY0llSk5TZzhOYTZja1ZQdGRMb0F2ay1PTmtiVDRfTHVZWTN1TG1zRTdaWEpxc0x1YjRuYmJwaUQzTE9pR2JMQ25MLVVGZGVqcW1zN0VJS3o4TUNFVXozNzJjX05LOWhXdGRIMDZlX0JXZkk4QWliUVUzaXhfeHRTTWZHME0wNG84X3E5dHNHYkotVzNNbnMyWTV3ZmlHVUtMbk8wZzJhazNiLWk1dmdPcTNnUW1VVXJib2twYUdOSGc?oc=5",
+     "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+     "source": "DelmarvaNow.com",
+     "new": false
+    },
+    {
+     "title": "Maryland Department of Health confirms five measles cases in residents following recent out-of-state travel - Maryland.gov",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPenJ4X3lPSFBCdk5rX2RlaThjaVlEY1d3UHRCU0hnbTBpbG5pZGdoRnpYSkdUcVVaVEJ5MEJRaXFGVkozcnhjRGhxakp6Z2s0VlI2NXF0emRLNWNBR0N3UDhPWm5SR1FGdzg2RVphdzY3aFZNV2JOR2drWkVyWWpNQVZvczhZNmEzTTFaWkE3aklKZE01cm1KYnNEQi1naTFTTWZDYVRKZVN6WHh4WjM2dElHZURRWXlnejRHeEw5bVpiTmhiaFBXc2RWRzJEbVdzOTJCVHhSOWx4VVY4LXdxQ0dPQUJDTUNwNmtxakNsR0JtcTlPX0djRVJadEFFR0VQZldDd1g0aGdNOUdUc3c?oc=5",
+     "published": "Wed, 15 Jul 2026 21:46:44 GMT",
+     "source": "Maryland.gov",
+     "new": true
     },
     {
      "title": "Maryland Dept. of Health declares measles outbreak in three counties as cases rise to 31 - WBFF",
@@ -99,9 +96,16 @@
      "new": false
     },
     {
-     "title": "Falling tree traps 12-year-old in Prince George\u2019s Co. home, thousands lose power in damaging overnight storms - WTOP News",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUlvVnVxNnpHQnBvMDVjREtZVzBhd3NEeGo1enFINmJhQ3lXMndOdmdUemY3czFLc0JiZEpLYktSVXoxVjRGWExtd2p6Q1d3UDZmNTJlbmJlZUQ2ZTI3bDBicEJSUzRCc1NyN0NydElBbGNYX3RqMmtLS3dqM1lacnIzZU9tdjE4UHJkSUlPbU1NaTd3Y0drLVZDUTI0UWQ1ZWwwTENB?oc=5",
-     "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+     "title": "Health officials confirm two measles cases in Anne Arundel area - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPam9JZmhwNVE2VElaWkRTcEN3SU1ySDZLYlFLVkl6ektLbUNmSjdaNzhlWTVzVmNRelhtOVY5d0RYdlo5R1Y5SVA2dVdDZjBJS2wzS1d6RVdJeUI5R0hPWVFvdVJ6azhsYWVJRUNXdVdRSlFPMXhxTjFWME1mS3lQeFlscU1wQlI5ZkptZVVXb29fZw?oc=5",
+     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+     "source": "Baltimore Sun",
+     "new": false
+    },
+    {
+     "title": "3 measles cases confirmed by Maryland health officials in April - WTOP News",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGJOeEhzSnEzZGo5NFlrVVJLdGo0dEZJRFhZNm5QR0JIaVJfRHFBaWloM2plQ09ud0NrLU9ZVzNOMGVwcC1FckVMUlVqaDJmUjFqTWFWNnNLdy05ZExScUlhU1VWNXAwWFprNWFvTlBZa21xVl94eEF5TE9nMzdxcWRqMVlCOFhZeGtwMjA3VXJqZVc4SDYxZFBqR2plX0k?oc=5",
+     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
      "source": "WTOP News",
      "new": false
     }
@@ -134,10 +138,10 @@
    ],
    "news": [
     {
-     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
-     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
-     "source": "Coconino.az.gov",
+     "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - coconino.az.gov",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3dJeDhlOTdPU21HRVgyUzhrTEpjMlVSTFRHdDJUOEtDSlpzNENpMUprWm5XWGR4d0o4VGcxWVhHYWxoYW9rMlU0WjVIZVJoT18yWUVLZkhBSnU4blo1Wi1wVXlOMUE?oc=5",
+     "published": "Tue, 14 Jul 2026 22:35:20 GMT",
+     "source": "coconino.az.gov",
      "new": false
     },
     {
@@ -148,13 +152,6 @@
      "new": false
     },
     {
-     "title": "Yavapai County Acts Fast After Measles Case in Prescott - Signals AZ",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcS0xVEk1ZjBEcThxY1FQWVhyNm1ZSWlGN256QmdjYUllUnBEay1kLUlzUEZBQWhDX1dheGNILWZ6bXZpWE5LczdhUkRtS0ZILWpLdi1IODlGOTF0MDhQcy1rOXNXeXhNbHVCNkV1Yks3b0xPeWQwRFh0OXJUeVc3VG1jZnk0anJ1V1ZaYmxQR05teUYzNUE?oc=5",
-     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-     "source": "Signals AZ",
-     "new": false
-    },
-    {
      "title": "Measles case reported in Yavapai County; virus detected at Sedona wastewater plant - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZJYU1nVVpYWTN1RjhjeWQtUHVhdkxRUk0wNGtBSlpGaFZWZWpTN2M4VjYwRUV1SUs5LVFxMXpNTzNFOThMMmlLVmdGckREeE9uQVYta2pNZHVmc3MxMHR3aFBteUp5dDh4TTRBcFI1bkMyRE9nUjgzSGpoYVh2Umdfd0xvdkM0bG9HLUFmdjRhUnhISzF3RGpqSjZwUmRTTlBwblJzb2c4dWVaQVZWbmhR0gHGAUFVX3lxTE0waWhscHFNNFhfUFYzZnhfNVNUazU1bnB2OU1qYnhId2c3bVdmNVFwZGstVUNhS2FyTmkwZ2owa1lBWkVyRUpJVzdCdE53aDdHbkJ3WlpMc1lHTERFWUYtZEZmSEwwSXRaRWdTRmVLZFNmbXNZUm1FZklxZHlnTDRqdFl3UlBKYWJ3akFoVXdsdEdUOXlJOGdzT2VmUWhQMnRxcm5nUTc1R3pTUkVWb1BQUlU1UGt4SEhkNTlFTDR5X2d6bl9NQQ?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
@@ -162,10 +159,17 @@
      "new": false
     },
     {
-     "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - Coconino.az.gov",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3dJeDhlOTdPU21HRVgyUzhrTEpjMlVSTFRHdDJUOEtDSlpzNENpMUprWm5XWGR4d0o4VGcxWVhHYWxoYW9rMlU0WjVIZVJoT18yWUVLZkhBSnU4blo1Wi1wVXlOMUE?oc=5",
-     "published": "Tue, 14 Jul 2026 22:35:20 GMT",
-     "source": "Coconino.az.gov",
+     "title": "Yavapai County Acts Fast After Measles Case in Prescott - Signals AZ",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcS0xVEk1ZjBEcThxY1FQWVhyNm1ZSWlGN256QmdjYUllUnBEay1kLUlzUEZBQWhDX1dheGNILWZ6bXZpWE5LczdhUkRtS0ZILWpLdi1IODlGOTF0MDhQcy1rOXNXeXhNbHVCNkV1Yks3b0xPeWQwRFh0OXJUeVc3VG1jZnk0anJ1V1ZaYmxQR05teUYzNUE?oc=5",
+     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+     "source": "Signals AZ",
+     "new": false
+    },
+    {
+     "title": "Additional measles public exposure locations confirmed in Coconino County - coconino.az.gov",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
+     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
+     "source": "coconino.az.gov",
      "new": false
     },
     {
@@ -204,17 +208,17 @@
      "new": false
     },
     {
-     "title": "Central Valley Counties Actively Monitoring Agricultural Workers Exposed to Measles in Arizona - countyofmerced.com",
+     "title": "Central Valley Counties Actively Monitoring Agricultural Workers Exposed to Measles in Arizona - Merced County",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Y2ZjR3UtVkM5dlZIalh1dERsNEdBaWF5VHBNUUNTMGRpMXg3d0Q3eXZRb0ZfN0diY3ducTJFX01NTXZ0M2lJVFJwbWE2R0RfRTdTMktVMVJ1bXlLbVQ0ODM1VVZtSTQ?oc=5",
      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-     "source": "countyofmerced.com",
+     "source": "Merced County",
      "new": false
     },
     {
-     "title": "Multiple Public Exposures to Measles Identified in Maricopa County - maricopa.gov",
+     "title": "Multiple Public Exposures to Measles Identified in Maricopa County - Maricopa County (.gov)",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
      "published": "Tue, 21 Jul 2026 22:44:19 GMT",
-     "source": "maricopa.gov",
+     "source": "Maricopa County (.gov)",
      "new": false
     }
    ]
