@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T18:06:38+00:00",
+ "generated_at": "2026-10-03T16:51:06+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,29 +9,15 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of October 1, 2026\u200b\u200b",
-      "Maryland issues notification of p\u200b\u200bossible measles exposure from person who visited state while infectious (September 16, 2026)\u200b",
-      "Maryland Department of Health declares measles outbreak in three Maryland counties (August 24, 2026)\u200b\u200b",
-      "Maryland Department of Health confirms positive measles case in Maryland resident (August 4, 2026)",
-      "Maryland issues notification of possible measles exposure from person who visited state while infectious (July 31, 2026)",
-      "Maryland Department of Health confirms additional measles case in Central Maryland resident (July 23, 2026)\u200b\u200b"
-     ]
+     "changed": false,
+     "new_lines": []
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of October 1, 2026\u200b\u200b",
-      "Maryland issues notification of p\u200b\u200bossible measles exposure from person who visited state while infectious (September 16, 2026)\u200b",
-      "Maryland Department of Health declares measles outbreak in three Maryland counties (August 24, 2026)\u200b\u200b",
-      "Maryland Department of Health confirms positive measles case in Maryland resident (August 4, 2026)",
-      "Maryland issues notification of possible measles exposure from person who visited state while infectious (July 31, 2026)",
-      "Maryland Department of Health confirms additional measles case in Central Maryland resident (July 23, 2026)\u200b\u200b"
-     ]
+     "changed": false,
+     "new_lines": []
     }
    ],
    "news": [
@@ -43,10 +29,10 @@
      "new": false
     },
     {
-     "title": "Maryland warns of possible measles exposure in Ocean City during Labor Day weekend - wbaltv.com",
+     "title": "Maryland warns of possible measles exposure in Ocean City during Labor Day weekend - WBAL-TV",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GcmprVXczbDZmcFZhX3dQVk1iQjk5UVl2LWpyeWpzZ3F0akJnWVlmc0xkWkRGRHY0S2lOZi1nMVhmbjFHLXdsRlJ2VUFXRGZudkF4QjN2WnpSX1h4Q282Z3B6ZUJDcEFxTm9GNmRWMldWd19TSUh2ZEM3WDF5UQ?oc=5",
      "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-     "source": "wbaltv.com",
+     "source": "WBAL-TV",
      "new": false
     },
     {
@@ -64,13 +50,6 @@
      "new": false
     },
     {
-     "title": "Maryland health officials confirm five new measles cases, urge vaccination checks - WBFF",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
-     "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-     "source": "WBFF",
-     "new": false
-    },
-    {
      "title": "Vaccination protections \u2018teetering\u2019 as state declares measles outbreaks in 3 counties - Maryland Matters",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0xBM2VEaE5iWV9PWHpPS1RaLWhwcUE5dEFYT3UyMDVsd2lUbnFpSlcyMHFrMmVwS0llN2Q5WW43VzE0X3lCc2gwTFh1V01uUFhYdUUzSTIxb0wzSnI5dG5hSi1BT2JNU1B0RTl5NnJNdHVPbHRBWkZNM1dRMXR2d0NKa0Exb01aSzhHXzdwT0cyaldfYU1qd1g1aElfQTJKc3BFd0pBa29TS1B4dmdrQkpaQ0VXVFlOLXJoVXdhTVg?oc=5",
      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
@@ -85,6 +64,13 @@
      "new": false
     },
     {
+     "title": "Maryland health officials confirm five new measles cases, urge vaccination checks - WBFF",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
+     "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+     "source": "WBFF",
+     "new": false
+    },
+    {
      "title": "Pennsylvania measles deaths climb to 4 - FOX 5 DC",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGtzeE5tZjNZeGp3aFZnSUItbjJWcTktbUx1SEhVMUd6Rll4UFBkS2J0NXBPZHRfNWRIX1FRS0otSXNfN09fOVZXNU44NlRER3ZXNlh5VElod1ctRkxVVzE5MW5TdnYtZ2wxZk9sM1dkbDNHblp5dFNtMFF4OThnLXJJU3hrU3RXbk9hLVFvUkRuNktVMEHSAZsBQVVfeXFMT2l6Y1pOYmNfU3daLUZNRWVNbjB1cXJwcXUxTHN1UEcwai1RdUVPVlItWnlsV3JXd2xQNWlVek5pOVpMU29HQWgxSFJBLUQxUFJUZ1BvMFY2UGRYNzRLakhVdnBOUnNQcUVPMFJORC10S2tVb1NqSXBoM2VJM1pEdHdITXJnRmdtVEcyWU5weE5zMVNjN09SZEVKaHM?oc=5",
      "published": "Wed, 23 Sep 2026 14:51:41 GMT",
@@ -92,11 +78,11 @@
      "new": false
     },
     {
-     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - baltimoresun.com",
+     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - Baltimore Sun",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQ1Y3SmNvTm1qWWZQdFROSFg0cHlwTXM3dWJMbUo2NkFZdU9rR2REVkdsS3lTLWpPbGluUWxSdms2UmlIWGNuaGp1c2lJZmt6dEtRSmRoQmpzUnI2VTNPLUcxYi1Hdw?oc=5",
      "published": "Wed, 30 Sep 2026 22:39:47 GMT",
-     "source": "baltimoresun.com",
-     "new": true
+     "source": "Baltimore Sun",
+     "new": false
     },
     {
      "title": "Measles outbreak in three counties shows importance of vaccination, officials say - Maryland Matters",
@@ -176,13 +162,6 @@
      "new": false
     },
     {
-     "title": "Coconino County confirms multiple cases of measles - 12News",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0p6bFk3NkRZb0Zjc3g4VVl1QlhqdzNuTmpDSnlEYTM1a3NwUWZxSGFBMDd6M3BqZVAxeE43UmZkRVhJMWxxY2xWWWoyTVNPTkVmMk5FaEY1bEJUMHdBWk5iQk9FVVhWSVFjSXh4bUJyWjFhMVl5VlV3THd3VDYwcUZXNUJVMmhDVVozTUs0SEJrTHZKdzhKMVFISThvTFc0bTBoeHNXYnhhQkptZFhXNkhuUUVBN0dsQzRDS0xrRDMzZjBTZjlFM1d6MWVSM3pmcGEzcWhDVjFnTVE?oc=5",
-     "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-     "source": "12News",
-     "new": false
-    },
-    {
      "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - Coconino.az.gov",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3dJeDhlOTdPU21HRVgyUzhrTEpjMlVSTFRHdDJUOEtDSlpzNENpMUprWm5XWGR4d0o4VGcxWVhHYWxoYW9rMlU0WjVIZVJoT18yWUVLZkhBSnU4blo1Wi1wVXlOMUE?oc=5",
      "published": "Tue, 14 Jul 2026 22:35:20 GMT",
@@ -197,10 +176,24 @@
      "new": false
     },
     {
-     "title": "2nd measles case reported in Coconino County with public exposure details - KTAR News 92.3 FM",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoR2JTbUNQbzNwbFQ5TjM2MzhYb1JIOHcwc2hvbVNHSFdoU3pMc2RtUW1fZHdEdTNmckF5eXh2N0ZIOEJRQ29KWGpyWXJUcGhxam1kbGRXNXRtVzVLMzBjaDZydWFJTWI2Q0hjVUVodEJOOEU?oc=5",
-     "published": "Tue, 31 Mar 2026 07:00:00 GMT",
-     "source": "KTAR News 92.3 FM",
+     "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
+     "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+     "source": "KJZZ",
+     "new": false
+    },
+    {
+     "title": "First Coconino County measles case of 2026 confirmed in Page - Navajo Times",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
+     "published": "Sat, 21 Mar 2026 02:26:34 GMT",
+     "source": "Navajo Times",
+     "new": true
+    },
+    {
+     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
+     "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+     "source": "AZ Family",
      "new": false
     },
     {
@@ -208,13 +201,6 @@
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmhtRzE5d2wwRDhLemtTenY4MmRKbjV2TzBxb08ybVdzeDl6ME04VmhKbk80YnFPV1N3ZWhldS14RFNHYnZYdnlKZnVZMzlpRjJBRkhpT2FoOU1CaHFxU2N4bHE3OGpaQmQ0cE9MMGRIUmtsQW1YZGV0VTM2YTJyUU00T0hJM3FSaHQwRGZ4MlpvbVJ0NGpxRlVhcFgtdzZyUnoyZ250RU12QmVqWXROUTUtSjhtaTVZa3ZUVF9aM3NSWlc5cGx4eEJ6UUtVUXUtLTc3a18yMUZ0cGFUODczeQ?oc=5",
      "published": "Tue, 29 Sep 2026 20:21:58 GMT",
      "source": "Arizona Daily Star",
-     "new": false
-    },
-    {
-     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
-     "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-     "source": "AZ Family",
      "new": false
     },
     {
