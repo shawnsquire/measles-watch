@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T17:10:30+00:00",
+ "generated_at": "2026-10-05T20:56:59+00:00",
  "cdc": null,
  "regions": [
   {
@@ -50,17 +50,10 @@
      "new": false
     },
     {
-     "title": "Maryland health officials warn of possible measles exposure at 3 Ocean City locations - CBS News",
+     "title": "Maryland health officials warn of possible measles exposure at 3 Ocean City locations - cbsnews.com",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZThQQkNpNEdQQk5MYy1YTmo3alFnTGNjaUwtUXlRVExrdHBIdGtJYlBhNEx0OHNDaFVVTUhtVlRtUGY3R25vSWdsdFg2WDV1QTJYVks3bUJLS0pVNzlnWUwtYWhmTkF1SFFkMzlDQWQtTnhoYmViUFFRcktJb2xBazhjMUNhdzFVM29aamlQOGZ6SUNmNHQzcDNSRElpY3BDQ0pKckYwMHFZbHBVSW5qS2M5Z0ZBeVUzbzRhMFZGRWh3Y3c?oc=5",
      "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-     "source": "CBS News",
-     "new": false
-    },
-    {
-     "title": "Vaccination protections \u2018teetering\u2019 as state declares measles outbreaks in 3 counties - Maryland Matters",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0xBM2VEaE5iWV9PWHpPS1RaLWhwcUE5dEFYT3UyMDVsd2lUbnFpSlcyMHFrMmVwS0llN2Q5WW43VzE0X3lCc2gwTFh1V01uUFhYdUUzSTIxb0wzSnI5dG5hSi1BT2JNU1B0RTl5NnJNdHVPbHRBWkZNM1dRMXR2d0NKa0Exb01aSzhHXzdwT0cyaldfYU1qd1g1aElfQTJKc3BFd0pBa29TS1B4dmdrQkpaQ0VXVFlOLXJoVXdhTVg?oc=5",
-     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-     "source": "Maryland Matters",
+     "source": "cbsnews.com",
      "new": false
     },
     {
@@ -68,6 +61,13 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
      "source": "WBFF",
+     "new": false
+    },
+    {
+     "title": "Vaccination protections \u2018teetering\u2019 as state declares measles outbreaks in 3 counties - Maryland Matters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0xBM2VEaE5iWV9PWHpPS1RaLWhwcUE5dEFYT3UyMDVsd2lUbnFpSlcyMHFrMmVwS0llN2Q5WW43VzE0X3lCc2gwTFh1V01uUFhYdUUzSTIxb0wzSnI5dG5hSi1BT2JNU1B0RTl5NnJNdHVPbHRBWkZNM1dRMXR2d0NKa0Exb01aSzhHXzdwT0cyaldfYU1qd1g1aElfQTJKc3BFd0pBa29TS1B4dmdrQkpaQ0VXVFlOLXJoVXdhTVg?oc=5",
+     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+     "source": "Maryland Matters",
      "new": false
     },
     {
@@ -134,24 +134,24 @@
    ],
    "news": [
     {
-     "title": "Additional measles public exposure locations confirmed in Coconino County - coconino.az.gov",
+     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
      "published": "Mon, 30 Mar 2026 22:21:43 GMT",
-     "source": "coconino.az.gov",
+     "source": "Coconino.az.gov",
      "new": false
     },
     {
-     "title": "Yavapai County confirms measles case in Prescott area - knau.org",
+     "title": "Yavapai County confirms measles case in Prescott area - KNAU",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRm9VUF9CTmxfaklJOTlqREFtcVdmWHdHMnRHbDdzZGRyb2xqLWNCOGN4dU1xNzNBUDUwa2J5ZXpOWnBVa0hZWU0weWVIREw5U2dOd3J3RHIwd2pWX1BiTnkwN3BXbXhQOGwzTUZoaktmSG8yVmRKa1JGUFlsSDd0ZE9WTEVkNDEzUHdna2xkUnc4d2JZYmVBS3c4S2NnNnRzNzRSTFpTTGlpTFE?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-     "source": "knau.org",
+     "source": "KNAU",
      "new": false
     },
     {
-     "title": "Measles case reported in Yavapai County; virus detected at Sedona wastewater plant - azfamily.com",
+     "title": "Measles case reported in Yavapai County; virus detected at Sedona wastewater plant - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZJYU1nVVpYWTN1RjhjeWQtUHVhdkxRUk0wNGtBSlpGaFZWZWpTN2M4VjYwRUV1SUs5LVFxMXpNTzNFOThMMmlLVmdGckREeE9uQVYta2pNZHVmc3MxMHR3aFBteUp5dDh4TTRBcFI1bkMyRE9nUjgzSGpoYVh2Umdfd0xvdkM0bG9HLUFmdjRhUnhISzF3RGpqSjZwUmRTTlBwblJzb2c4dWVaQVZWbmhR0gHGAUFVX3lxTE0waWhscHFNNFhfUFYzZnhfNVNUazU1bnB2OU1qYnhId2c3bVdmNVFwZGstVUNhS2FyTmkwZ2owa1lBWkVyRUpJVzdCdE53aDdHbkJ3WlpMc1lHTERFWUYtZEZmSEwwSXRaRWdTRmVLZFNmbXNZUm1FZklxZHlnTDRqdFl3UlBKYWJ3akFoVXdsdEdUOXlJOGdzT2VmUWhQMnRxcm5nUTc1R3pTUkVWb1BQUlU1UGt4SEhkNTlFTDR5X2d6bl9NQQ?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-     "source": "azfamily.com",
+     "source": "AZ Family",
      "new": false
     },
     {
@@ -162,10 +162,10 @@
      "new": false
     },
     {
-     "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - coconino.az.gov",
+     "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - Coconino.az.gov",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3dJeDhlOTdPU21HRVgyUzhrTEpjMlVSTFRHdDJUOEtDSlpzNENpMUprWm5XWGR4d0o4VGcxWVhHYWxoYW9rMlU0WjVIZVJoT18yWUVLZkhBSnU4blo1Wi1wVXlOMUE?oc=5",
      "published": "Tue, 14 Jul 2026 22:35:20 GMT",
-     "source": "coconino.az.gov",
+     "source": "Coconino.az.gov",
      "new": false
     },
     {
@@ -183,10 +183,10 @@
      "new": false
     },
     {
-     "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
+     "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - kjzz.org",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-     "source": "KJZZ",
+     "source": "kjzz.org",
      "new": false
     },
     {
@@ -197,10 +197,10 @@
      "new": false
     },
     {
-     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - azfamily.com",
+     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-     "source": "azfamily.com",
+     "source": "AZ Family",
      "new": false
     },
     {
