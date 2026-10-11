@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T17:31:08+00:00",
+ "generated_at": "2026-10-11T17:50:17+00:00",
  "cdc": null,
  "regions": [
   {
@@ -21,6 +21,13 @@
     }
    ],
    "news": [
+    {
+     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+     "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+     "new": false
+    },
     {
      "title": "These 248 Maryland schools are most vulnerable to measles outbreaks - The Baltimore Banner",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZE5oU1FtQlo0cTRKYWNvZWsxSEc3ZlhTSzNXTXpLcThxencxcmFHZ1g0RnhvNHIzNVB0bV9CaTZKWmRDdEoxem1QeU83b3N5UTVad3dodVpCOGEwUGFPTUpXQnlOSnJRWkJvTVJBY3VwZTd5SjgtU3p1SGRmS2pXcTZ4dzA5Szh1REhIUWV5a3gyb3UyRElqdGN6TGg0TEZYQXFnbVEtVG5XSmJPTFJLZlpQdlhFWVVaWkJj?oc=5",
@@ -57,24 +64,17 @@
      "new": false
     },
     {
-     "title": "Pennsylvania measles deaths climb to 4 - FOX 5 DC",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGtzeE5tZjNZeGp3aFZnSUItbjJWcTktbUx1SEhVMUd6Rll4UFBkS2J0NXBPZHRfNWRIX1FRS0otSXNfN09fOVZXNU44NlRER3ZXNlh5VElod1ctRkxVVzE5MW5TdnYtZ2wxZk9sM1dkbDNHblp5dFNtMFF4OThnLXJJU3hrU3RXbk9hLVFvUkRuNktVMEHSAZsBQVVfeXFMT2l6Y1pOYmNfU3daLUZNRWVNbjB1cXJwcXUxTHN1UEcwai1RdUVPVlItWnlsV3JXd2xQNWlVek5pOVpMU29HQWgxSFJBLUQxUFJUZ1BvMFY2UGRYNzRLakhVdnBOUnNQcUVPMFJORC10S2tVb1NqSXBoM2VJM1pEdHdITXJnRmdtVEcyWU5weE5zMVNjN09SZEVKaHM?oc=5",
-     "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-     "source": "FOX 5 DC",
-     "new": false
-    },
-    {
-     "title": "Maryland health officials warn of possible measles exposure at 3 Ocean City locations - CBS News",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZThQQkNpNEdQQk5MYy1YTmo3alFnTGNjaUwtUXlRVExrdHBIdGtJYlBhNEx0OHNDaFVVTUhtVlRtUGY3R25vSWdsdFg2WDV1QTJYVks3bUJLS0pVNzlnWUwtYWhmTkF1SFFkMzlDQWQtTnhoYmViUFFRcktJb2xBazhjMUNhdzFVM29aamlQOGZ6SUNmNHQzcDNSRElpY3BDQ0pKckYwMHFZbHBVSW5qS2M5Z0ZBeVUzbzRhMFZGRWh3Y3c?oc=5",
-     "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+     "title": "Maryland resident tests positive for measles, 13 cases in state confirmed in 2026 - CBS News",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWhPemdBLW9NejJlQ2dTSGo4SEJEejNOdHpyUjdQRk1FLWJ4RkpyN0xqdzFyN29PSTdZMm96dzdVSTlnSlBkZzVuMnppeEVkMG9BclVaS0tEODVNRnhMUElmdUJvOGlIS01OSld3azI1RlRCMVR4ZEV4c0c2Tk15WEU0V3R0X1BmTXdCcmhKMnFJUXNGYXJYVG9sRW03clpZbFFSOW9ESi1iVnhNZ1cydW1R?oc=5",
+     "published": "Wed, 05 Aug 2026 07:00:00 GMT",
      "source": "CBS News",
-     "new": false
+     "new": true
     },
     {
-     "title": "Maryland health officials release list of potential measles exposure sites - WMAR 2 News Baltimore",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjRkTDhfT0ZDeEZrQXNfNkh3ZWswZ21POHJObnFSNDhyaUViaklSaVlXb1lmdEpiN09xeUF2LThJbmxQUFNDSkFlc3dJMm12UGtvWklWRGNieXNlNkgzVl9hbC1kTEQ5dS0tdVF3bzh6aGRISmFuZ3hGRUFQcnJhREZZZ0Jpb1NRdVlkOUhBVHFaenVTRVRYX2pqYjlGRnFZTk5nMnRscjZwZm9iUWg2aFFFOWQyU3pqRDR5VEFhdmdxZVkxcHFVX2lZYXF0aFlKWUE?oc=5",
-     "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-     "source": "WMAR 2 News Baltimore",
+     "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
+     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+     "source": "NBC4 Washington",
      "new": false
     },
     {
@@ -85,17 +85,17 @@
      "new": false
     },
     {
-     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - Baltimore Sun",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQ1Y3SmNvTm1qWWZQdFROSFg0cHlwTXM3dWJMbUo2NkFZdU9rR2REVkdsS3lTLWpPbGluUWxSdms2UmlIWGNuaGp1c2lJZmt6dEtRSmRoQmpzUnI2VTNPLUcxYi1Hdw?oc=5",
-     "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-     "source": "Baltimore Sun",
-     "new": false
-    },
-    {
      "title": "MD Confirms 2 New Measles Cases - Patch",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPU1QxSUJpM3g0Y2cxNnlCTXF0ZnJCQ0NKVmRlMjU1aFh2eGVJSHlfVzZnMzFESWxHSWZxUjdKNWZqNGRsSEtNSFhRT0I1SGZsOGhmTWlrUDRMZlNrRWJUQldGR0VTZHNUSU5xbDJJeEVpWVVHeVJBckln?oc=5",
      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
      "source": "Patch",
+     "new": false
+    },
+    {
+     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQ1Y3SmNvTm1qWWZQdFROSFg0cHlwTXM3dWJMbUo2NkFZdU9rR2REVkdsS3lTLWpPbGluUWxSdms2UmlIWGNuaGp1c2lJZmt6dEtRSmRoQmpzUnI2VTNPLUcxYi1Hdw?oc=5",
+     "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+     "source": "Baltimore Sun",
      "new": false
     },
     {
@@ -169,13 +169,6 @@
      "new": false
     },
     {
-     "title": "Coconino County reports 2nd measles case - FOX 10 Phoenix",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjRmbVdsLUJxSVlWODRwNXprSHRYVUVJS3BIN1RjNXc0NkNBTjdMWW5id2FFNGJRMDVsNUNQazdVWlp2REFzWG9aUzhSQjNSdzBrTDJCNm5NcVNrTmJmSEFULXpRMmFsd2ZVTkphbmxVVEJwRlJnaEhtZmFFMldUaFNYNlFqWWtkUDZfdTlBQm00cGpBY3FkLVlqeDFZUdIBowFBVV95cUxQODNBQmJ3YmNFTmN0MTJISk5hbU5sem9nVXdCY0JnODVPWlk1Vl9TTlFYZ2U2NmlWNmtsU1dCazlKWlNJTGhKNHVMTlNmaWxBVlNJNFB1TWpuT05kdzI1UFVnVDJ1d1BHbEtHU3JuVGNiOGstbW9RdHhNVEZpQXlrbl9XN1pVLVlXQ25hVG5oWHVFV1plUVIwVTlsYVdVUDdLX184?oc=5",
-     "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-     "source": "FOX 10 Phoenix",
-     "new": false
-    },
-    {
      "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -187,6 +180,20 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
      "published": "Sat, 21 Mar 2026 02:26:34 GMT",
      "source": "Navajo Times",
+     "new": false
+    },
+    {
+     "title": "Mesa youth basketball is sight of latest measles exposure - KTAR News 92.3 FM",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNDhHcXRIaDFQQXNqdFI2V053c201el84SUNLel9FU3R2N0dLNGx6OW0zRVpRNmllMHh6NEZocGxfZUlfZV9xXzRjUTJzX2FUT0pHb0loQzQyWldYOVVSQjlQZmo2eG1pTXNHQ3dKaw?oc=5",
+     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+     "source": "KTAR News 92.3 FM",
+     "new": true
+    },
+    {
+     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+     "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
      "new": false
     },
     {
@@ -208,13 +215,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
      "source": "Maricopa County (.gov)",
-     "new": false
-    },
-    {
-     "title": "Confirmed case of measles reported in Pima County - 12News",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY09EVWMybmJLVVEtbVY0Q3RNMWdBYnJzVlkxdzJfUnJCcjI2cjJad091c3V5cW5oMXBYVnAtY3BCUk5VbTRmTkR0NGJhTnhOQml1ek0wT2dmSnRZTGdVaHlESXNGOXh0Vk9sQjlQR2lVUEg3ZHhIX2d1X1BCMkFWY0h3UnRaNHhxUnNfNG1PMndUZHhoOUpaQzdiRG9YUkt4SWpVYkdxazNHeEhFOUNBU1REaVdENHFveUN5aXo0ckRkeUwtUDhQOTBzX29tWDNoaGtqR0hzeTdFYVlYVEpLSA?oc=5",
-     "published": "Sat, 26 Sep 2026 04:31:00 GMT",
-     "source": "12News",
      "new": false
     }
    ]
