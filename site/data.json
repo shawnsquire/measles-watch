@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T21:27:35+00:00",
+ "generated_at": "2026-10-13T19:37:28+00:00",
  "cdc": null,
  "regions": [
   {
@@ -27,6 +27,13 @@
      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
      "new": false
+    },
+    {
+     "title": "MD Measles cases swell by nearly 20-fold in 2026. All the latest info - DelmarvaNow.com",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY09ieTllS28wR0xSelBzVzJVUTE4VFMtTWhhME9JajVPck9rNVhOZmNGektFVU9jYW5taTBkeE5ZcTdzVjcxbW1aZ29yTFNkZE13UlpFMXhtVW5haDFzbzZqSFRtWkZXZHpiTEhYWjFZeW1CNVhMOHpIbU5yOU1NeU90cW9xVmRMNmFqM2hVQk9KbVp5bHNqN0t6NGV5aWRockNEZjFUMVMyaDdqVEtGYk82dnIyd0I4aHg4T1dIcUpvUnRuV2t5d0xDNUdYUkNMbHdZWUY4bnVDYnVodkZF?oc=5",
+     "published": "Tue, 13 Oct 2026 12:38:00 GMT",
+     "source": "DelmarvaNow.com",
+     "new": true
     },
     {
      "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
@@ -68,13 +75,6 @@
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWXJaWGpmTHh3ZnNWUUtfWmoxQmFsM3BCRWRvbTlNVzByZFNKVU11ZUY3TDhuakhDeFFIQkxzb2JCUGNZMEVKLWtSRmFOOE02TlcxYUt2bWhiR3VjQk9weE4tTUVHcjgxeFR4dERHLU81cnIwUjRhVDBZbm5IaVZLd0xlRVdkekZBNjFFYXN5dlQzNXJqVUh5dG5qQXV3a1l2Ykc4T1RWRXdTdl9XalFxNTltSkc1RWk0ZnBNdTRlQThiV2ZsOVJEMA?oc=5",
      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
      "source": "WMAR 2 News Baltimore",
-     "new": false
-    },
-    {
-     "title": "UPDATE: Delaware Measles Cases Climb to 25 - 47abc - WMDT",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldTUFB1WkF2M1FPVWo0eDJZT0pLTjdETF9sdmNLME52Nk44MEJ0ZzUxTzIyMnU5SDdGVzBiV3lMTkVIbURxRm5MMmJuYnRaemF0OTM5VVZvaEYyWERWc2xTNFlXQmIwc093TE9UZ3Q4YnRLdlMxM3VBSWw5ZGlRSm1RWi1tVHAyazBJNUNSV05PUHQyLTN3ZjkxSXA4Zw?oc=5",
-     "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-     "source": "WMDT",
      "new": false
     },
     {
@@ -180,13 +180,13 @@
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkJlbU02bVA1SzRtRFJGVl9JdGN2TUJnTVhmVVpqakhvbWtGdDBfSHhlSjJWZFBqQUJLMUpyMzNDQUZBUTgwU0Y5dG8yY28tWUJyR1BtVEhWVzZiZ2lGTllLcXY5UXRKUk9iTHV2WVlKWjNJXzRfUmN3QUFsSUw1azI5bUptNkNpamZKRm52bXhmdzEwOWp6em16NFBGTlFsaFpTQ2FPRWw0SVJYaU1vaQ?oc=5",
      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
      "source": "KOLD",
-     "new": true
+     "new": false
     },
     {
-     "title": "First Coconino County measles case of 2026 confirmed in Page - Navajo Times",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
-     "published": "Sat, 21 Mar 2026 02:26:34 GMT",
-     "source": "Navajo Times",
+     "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
+     "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+     "source": "KJZZ",
      "new": false
     },
     {
@@ -195,6 +195,13 @@
      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
      "new": false
+    },
+    {
+     "title": "Measles cases reach 4,080 for the year \u2014 the highest in decades - Tucson Sentinel",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDZneXFKQVo3T1R2R0hUTmthcEdCT3d6VExnaWQxZGdNb2tKOXNNUVgweDlQXzZjajl6bUVyZDBMMEdtRURfWkxzTG55TmNoV0RaZjN0Mnc1cDhZamZxUWlvZW95WXRtVm0yTFJuYVlwY2pGLUlJRnltWVV5aHlRVmd6MnFsMnpKUzFDSG12RmtLdGZacXI3ZkxFZmNzQm5sYVJlSkZXeklfM3JnNVlDMHp4UWlGdGFn?oc=5",
+     "published": "Mon, 12 Oct 2026 21:28:00 GMT",
+     "source": "Tucson Sentinel",
+     "new": true
     },
     {
      "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
@@ -208,13 +215,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
      "published": "Tue, 21 Jul 2026 22:44:19 GMT",
      "source": "Maricopa County (.gov)",
-     "new": false
-    },
-    {
-     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
-     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-     "source": "Axios",
      "new": false
     }
    ]
