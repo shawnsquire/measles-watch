@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T19:37:28+00:00",
+ "generated_at": "2026-10-14T01:33:46+00:00",
  "cdc": null,
  "regions": [
   {
@@ -33,7 +33,7 @@
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY09ieTllS28wR0xSelBzVzJVUTE4VFMtTWhhME9JajVPck9rNVhOZmNGektFVU9jYW5taTBkeE5ZcTdzVjcxbW1aZ29yTFNkZE13UlpFMXhtVW5haDFzbzZqSFRtWkZXZHpiTEhYWjFZeW1CNVhMOHpIbU5yOU1NeU90cW9xVmRMNmFqM2hVQk9KbVp5bHNqN0t6NGV5aWRockNEZjFUMVMyaDdqVEtGYk82dnIyd0I4aHg4T1dIcUpvUnRuV2t5d0xDNUdYUkNMbHdZWUY4bnVDYnVodkZF?oc=5",
      "published": "Tue, 13 Oct 2026 12:38:00 GMT",
      "source": "DelmarvaNow.com",
-     "new": true
+     "new": false
     },
     {
      "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
@@ -92,17 +92,17 @@
      "new": false
     },
     {
-     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - Baltimore Sun",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQ1Y3SmNvTm1qWWZQdFROSFg0cHlwTXM3dWJMbUo2NkFZdU9rR2REVkdsS3lTLWpPbGluUWxSdms2UmlIWGNuaGp1c2lJZmt6dEtRSmRoQmpzUnI2VTNPLUcxYi1Hdw?oc=5",
-     "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-     "source": "Baltimore Sun",
-     "new": false
-    },
-    {
      "title": "Maryland reports 27 measles cases since July 15, all among unvaccinated residents - WJLA",
      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPbjVPRVFET09hRFlCS0lILXhGLUJNbkdtdTA3SDdBcWdtSWgzNER0YUFmcEdUZVFvOVVWN19XOHZRSmVfRS1laFpUXzNkUVlFM0JEdUgwM0REODVkZHgwWWNOWnFaREpfS0dVRHJGb3hyMFR3b01OdUFwOF9SR2RJNm5qdlY0Q0ZuVm52bGhMT2FKSnNScFJqbjhYaDhTa1lRNUlYVFRSM2k1RlVTSTFNZDIwN1oya1BJU1JsdW80VmFBTTRiMF9HZUZjM0o0UmRrUVBOS1lLLUVGZFVjb2dORnNMbE9PUm41VWlualBnY3BnbGs5UURtNjBRODhUSGFpY0dQbVRfV1E2STBXM2ZGeHRQMm4xMUYzZk54Q1kyRUxxNHJfT2p5YXVFZ2xZVVpqV1JHem9nelFKd1g4SFpyRzNVV0JJVTM2QmRVa1BvRGRmNlZhTGpQaXgxN2xlM3NFT1ExVGlEUGxtZ1pQOTlIT3l3UlRyOVU5Ry1sdW9UOHhFSE9wVW1DcmltaHN2c1Qt?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
      "source": "WJLA",
+     "new": false
+    },
+    {
+     "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQ1Y3SmNvTm1qWWZQdFROSFg0cHlwTXM3dWJMbUo2NkFZdU9rR2REVkdsS3lTLWpPbGluUWxSdms2UmlIWGNuaGp1c2lJZmt6dEtRSmRoQmpzUnI2VTNPLUcxYi1Hdw?oc=5",
+     "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+     "source": "Baltimore Sun",
      "new": false
     }
    ]
@@ -197,13 +197,6 @@
      "new": false
     },
     {
-     "title": "Measles cases reach 4,080 for the year \u2014 the highest in decades - Tucson Sentinel",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDZneXFKQVo3T1R2R0hUTmthcEdCT3d6VExnaWQxZGdNb2tKOXNNUVgweDlQXzZjajl6bUVyZDBMMEdtRURfWkxzTG55TmNoV0RaZjN0Mnc1cDhZamZxUWlvZW95WXRtVm0yTFJuYVlwY2pGLUlJRnltWVV5aHlRVmd6MnFsMnpKUzFDSG12RmtLdGZacXI3ZkxFZmNzQm5sYVJlSkZXeklfM3JnNVlDMHp4UWlGdGFn?oc=5",
-     "published": "Mon, 12 Oct 2026 21:28:00 GMT",
-     "source": "Tucson Sentinel",
-     "new": true
-    },
-    {
      "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -215,6 +208,13 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
      "published": "Tue, 21 Jul 2026 22:44:19 GMT",
      "source": "Maricopa County (.gov)",
+     "new": false
+    },
+    {
+     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
+     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+     "source": "Axios",
      "new": false
     }
    ]
