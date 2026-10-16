@@ -1,7 +1,7 @@
 {
  "pages": {
   "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx": {
-   "hash": "50c0514f256f69c3461975ba2ca0d5266568676e800db54bff19d3d8c01018d2",
+   "hash": "5014c07e323111d74cb0aa668a4a74cf07038fd2ae83ffbe588be734c980ec66",
    "lines": [
     "Accessibility Information",
     "Maryland Department of Health",
@@ -16,7 +16,7 @@
     "If you think you or your family member has symptoms of measles or might have been exposed to measles\u200b, call your healthcare provider before going to a waiting room or emergency department so staff can take measures to prevent possible spread to other patients. Do not go to child care, school, work, or out in public if you have symptoms of measles or have been exposed to measles. To check your immunization status, contact your healthcare provider or securely request your records",
     "via My Immunization Record (MyIR). If you have questions about vaccinations, contact your healthcare provider. \u200b\u200b\u200b",
     "For instances in which MDH is aware of possible public exposure from a measles case, that information is shared through",
-    "Cases of Measles in Maryland, as of October 8, 2026\u200b\u200b",
+    "Cases of Measles in Maryland, as of October 15, 2026\u200b\u200b",
     "Maryland issues notification of p\u200b\u200bossible measles exposure from person who visited state while infectious (September 16, 2026)\u200b",
     "Maryland Department of Health declares measles outbreak in three Maryland counties (August 24, 2026)\u200b\u200b",
     "Maryland Department of Health confirms positive measles case in Maryland resident (August 4, 2026)",
@@ -33,10 +33,10 @@
     "(410)767-6500 or 1-877-463-3464",
     "988 Suicide & Crisis Lifeline"
    ],
-   "checked": "2026-10-15T17:27:58+00:00"
+   "checked": "2026-10-16T17:02:59+00:00"
   },
   "https://health.maryland.gov/measles/Pages/default.aspx": {
-   "hash": "50c0514f256f69c3461975ba2ca0d5266568676e800db54bff19d3d8c01018d2",
+   "hash": "5014c07e323111d74cb0aa668a4a74cf07038fd2ae83ffbe588be734c980ec66",
    "lines": [
     "Accessibility Information",
     "Maryland Department of Health",
@@ -51,7 +51,7 @@
     "If you think you or your family member has symptoms of measles or might have been exposed to measles\u200b, call your healthcare provider before going to a waiting room or emergency department so staff can take measures to prevent possible spread to other patients. Do not go to child care, school, work, or out in public if you have symptoms of measles or have been exposed to measles. To check your immunization status, contact your healthcare provider or securely request your records",
     "via My Immunization Record (MyIR). If you have questions about vaccinations, contact your healthcare provider. \u200b\u200b\u200b",
     "For instances in which MDH is aware of possible public exposure from a measles case, that information is shared through",
-    "Cases of Measles in Maryland, as of October 8, 2026\u200b\u200b",
+    "Cases of Measles in Maryland, as of October 15, 2026\u200b\u200b",
     "Maryland issues notification of p\u200b\u200bossible measles exposure from person who visited state while infectious (September 16, 2026)\u200b",
     "Maryland Department of Health declares measles outbreak in three Maryland counties (August 24, 2026)\u200b\u200b",
     "Maryland Department of Health confirms positive measles case in Maryland resident (August 4, 2026)",
@@ -68,7 +68,7 @@
     "(410)767-6500 or 1-877-463-3464",
     "988 Suicide & Crisis Lifeline"
    ],
-   "checked": "2026-10-15T17:27:58+00:00"
+   "checked": "2026-10-16T17:02:59+00:00"
   },
   "https://www.azdhs.gov/preparedness/epidemiology-disease-control/measles/index.php": {
    "hash": "090c52601f08ccdd27fe1b8bc4d23c3438fd99265ff020915c3a73fcd379681d",
@@ -129,7 +129,7 @@
     ". Los documentos que son traducciones al Espa\u00f1ol y que se encuentran en esta p\u00e1gina Web no tienen validez oficial ni legal en este Estado o en alguna entidad politica del mismo. \u00a9 2009 to 2026, Arizona Department of Health Services.",
     "The Arizona Department of Health Services' public meeting notices and agendas are posted in the lobby of the Department and on the"
    ],
-   "checked": "2026-10-15T17:27:58+00:00"
+   "checked": "2026-10-16T17:02:59+00:00"
   }
  },
  "seen_links": [
@@ -202,6 +202,7 @@
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHBnOEJONnYzdy1oc3ZmVjJnVWJrUHZHXzJDeGhlbXhCLWJjdXNmR2k0MGN5eThrTU1ZaE9abWxQS0dDak9aVm5oMmwxcmtUd3dGYklXMXp0aUZraWpnMnVHTUUtOFlUeElqVERzajN0Z25tLUFOUjdVNWVteEZnVnVMSjFKQ3lERG13ZENVd1A1UVA1d2xJ?oc=5",
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1lLU1M2TXZFRUdLOGRiczVFbnBGTW10WXJrLUY4WkNRbnE5R3lBaFdjM1ZmUi1obTF0ZFNHSmpFamgxZGhkcnVHWTNrQXJham15bEZwQzM2NVNDNEE2Vmh5dTVWd3JpakJFVGM4a3A3NWNFMmdPS3FyU1E4SlBaVnpGakVFamhWVWc4VmtkTm1rajNqTHE5Yg?oc=5",
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3JZbjh4eTl6WmpTYS1PRHJwVk51d294bTZVMmRmdFB5SlNQcTk4cEtyWEllSWhmeHlCQlYtNzJ3YWkxOFJYZVpZZlZMZ0sxeHZBVzktM3lTa2UwRElLX1kxaXlQNmpYckFiUVU1dlFUY0lwUUtzVmoyOXF1YlpZRlFkSGdZVjRVYldVcW9fbi1WZTRUdXVUaQ?oc=5",
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWdiYmhQWXJwdlJZZG0tRFpGYVlMWDFSZFR2MWNoaFlnOERwSEpZbjcwbU9LOVpEZVFiY21wNjY0TDRKLWxyN1RUTGo4UXRHQ0RNU0N3VzFMdE9pbGdKcjB6OFdlTmJqQnZ6R00zWDVXa25aTVNOOGx6YlBrT3R0cjZ1cVJIaDlZSWhJU1JJdlpSd2U2bUljeQ?oc=5",
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1dhdEhKbXNlcDJhSkZXZ05mTzdVbzY2NG1DZGdVUGs1VzZBaEhDVzl5SVNnT1MyQm80QlNKYlcycVF3bkEzS3RfSzRmdF9XM0VVTWdWNnIxbkJ6WkpIN01xUjlfREgtVFNmQzFpakd3SGpqLTE1SS0zYnc0Nnl4WFBUUW5YZXIxMnhsVVdNUjhESFROM0gtNXh3?oc=5",
   "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd08zamY0OFNBZV9WMVU3YXpjZ0hmekYyallydFh0QVpjY0FLb3EtX0daMEk4WVp6T1pTdlFTbGRPVEFqSVptN2JaT1RCYzlqbG1zUkh2VGFCcjl1Ml9OSXJhWWZrcHQyZ2pfUHFkQmctYXZQemlwZGdXejhRVXBDdC1iSG4tbDI0VFZSNjN5VDFpSzRrSXdUOTJFam1KX1ozWmVQREd1WnFFMXVaVUlud3VFREZHUnNkMEVMdzBnMU1VX1FtREpac0NTSUpQTjFQR2FuNUpSZXZHTER3QlE4ODFlN2l6ZnlWZTZwajFwLUxSNTVNVXpoM2M2MjlGUFRFN1FrQ185QVJIWmVRTmxwalRTS3YtaEFaWFE?oc=5",
@@ -283,5 +284,5 @@
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzNWUXlrUm9tTGVwclZIZnFBNU9IWUtDTHlMbVczUlllb09NVkFXSVdDNnRrUENmLTlSbDEzOEx4TGE3V1VSQ2ZiT1RXOXJOZ1dON3h5aWpBcWNRWWZ6MkZ3bnczX2FMMmpqTGQzUGZCYmVMVm9zMTFPdUxySE5DaDNWeVdpQmptZnpyRXoySzVNLXlnSkJfSm9yV3ZUVWdkb1lnS19jYjU1YzBVLWlPT0FXYTNvSXVWeFFackE0UGJyYWljWWN1RnBkaFdkQQ?oc=5",
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHhjUEFwVXhZQkw0ZDVzQ3BMWWZnLWQwa1ZkV2dBQ2QtZGFjbmdaRzRqaXNHOUVJSFlfaXp4VDJ3TWdRTkdQS1RsblI4SG8zQmdaWjZVZVdEXzVJQW9rclNaUkRXdGlUNnc1RVNUZHJLRnp6dGlmOWNZRTFhMkprTU5YbC00YzVEU3NHRU9SQVctOW9kT0swQTl5TmhLM2Q0OUI3aGZyR04xeG40MXdQcDQyb0FtUlFCZ3VheGN0eUZuV2RIMm9ZZm9SU0tjQQ?oc=5"
  ],
- "last_run": "2026-10-15T17:27:58+00:00"
+ "last_run": "2026-10-16T17:02:59+00:00"
 }
