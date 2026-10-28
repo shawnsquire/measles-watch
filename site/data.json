@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T01:59:52+00:00",
+ "generated_at": "2026-10-28T18:33:39+00:00",
  "cdc": null,
  "regions": [
   {
@@ -162,6 +162,13 @@
      "new": false
     },
     {
+     "title": "New measles case reported in Yavapai County; virus detected at wastewater plant - KOLD",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkJlbU02bVA1SzRtRFJGVl9JdGN2TUJnTVhmVVpqakhvbWtGdDBfSHhlSjJWZFBqQUJLMUpyMzNDQUZBUTgwU0Y5dG8yY28tWUJyR1BtVEhWVzZiZ2lGTllLcXY5UXRKUk9iTHV2WVlKWjNJXzRfUmN3QUFsSUw1azI5bUptNkNpamZKRm52bXhmdzEwOWp6em16NFBGTlFsaFpTQ2FPRWw0SVJYaU1vaQ?oc=5",
+     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+     "source": "KOLD",
+     "new": false
+    },
+    {
      "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -176,18 +183,11 @@
      "new": false
     },
     {
-     "title": "Mesa youth basketball is sight of latest measles exposure - KTAR News 92.3 FM",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNDhHcXRIaDFQQXNqdFI2V053c201el84SUNLel9FU3R2N0dLNGx6OW0zRVpRNmllMHh6NEZocGxfZUlfZV9xXzRjUTJzX2FUT0pHb0loQzQyWldYOVVSQjlQZmo2eG1pTXNHQ3dKaw?oc=5",
-     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-     "source": "KTAR News 92.3 FM",
-     "new": false
-    },
-    {
-     "title": "Measles virus detected in Sedona wastewater samples - KNAU",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFJUOUVBQ3lVQmtsakJSOTZLOEVSaTRzWk0xRTBZaHR4Qkg0ek4yR3N6YXNjZU1kcl9memRxYnBUT2loRW5VelVSd3plYWJXQ3UxV1NXcVhFQmVLNUtrenNwQ2EzOEx0TEVoZDNxSjZJZzVXMGhTUHJSeDlpY2NSdzVKWnVTYlUwQkgyWEhySHllQnVpa0tDVXJ5N2hKQWpDeUVsaDFSb2s?oc=5",
-     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
-     "source": "KNAU",
-     "new": false
+     "title": "Arizona-Utah measles outbreak surpasses 500 cases - azcentral.com and The Arizona Republic",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMThPU3RIcU5Qc1hpQXhzcW5jczNoUmttODNad1YtRWluSWV2NzQ2a1J3LVZyNXluS3hUTmFYUXFKMmd0OVdCbmxfVTNrbEIzNDV6MGNaS3lBbTVvQndRUWVrMTRoZHdLWDJ1QW1PalFETm54YlRSTzlwcnd1V29xVkppeDZ0ZUZxS3hwRDlvLWpaWGtLQm5ZYk9zNkpqMzl6NGhPZ3hLbGVNcE1YOW5mckNBNEhjU2FtRWVWLXhpYzM2MW9yVUJJSzVCTQ?oc=5",
+     "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+     "source": "azcentral.com and The Arizona Republic",
+     "new": true
     },
     {
      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -211,10 +211,10 @@
      "new": false
     },
     {
-     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
-     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-     "source": "Axios",
+     "title": "Measles case counts mount in Utah, Arizona, while Bangladesh, Guatemala battle deadly outbreaks - CIDRAP",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkZMT1luSm13eFZUZkUzUnRpWEpUbHR3OS01WmRJREFTNG4zdGh2NHVpa0twWTB2WHd2V1FlcW9xSklvU09NX2NHSnJ3N3NzZHd6alpYNG9Dc1lIYXk4VVZ4RUc3aUVodHBGZWk5T1BHS2V3RWlvcC1sdUZVamFid1k4REJ5WFJ2ZU1uX250UGVXWHhxSWZkdndHTUFtSGpUOXd6M2ZVNzZTTGdvZkVhUVFNV0lpRU1JRDBnRnNBODZoZw?oc=5",
+     "published": "Fri, 01 May 2026 07:00:00 GMT",
+     "source": "CIDRAP",
      "new": false
     }
    ]
