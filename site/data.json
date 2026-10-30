@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:42:43+00:00",
+ "generated_at": "2026-10-30T18:18:48+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,44 +9,35 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Measles is a highly contagious, vaccine-preventable viral illness that causes a high fever with a full-body rash. Measles infection can affect the body's respiratory, immune, and central nervous systems. The best way to protect yourself, your family, and your community from measles is to get vaccinated.\u200b",
+      "The Maryland Department of Health is working with Maryland local health departments and healthcare providers to respond to an outbreak of measles among unvaccinated individuals; however, there is currently no evidence of widespread community transmission. For more information about measles outbreaks in other areas of the United States, see the John Hopkins Bloomberg School of Public Health",
+      "Cases of Measles in Maryland, as of October 29, 2026\u200b\u200b",
+      "Jurisdictions in Active Outbreak Status, as of October 29, 2026",
+      "MDH Measles-Related Press Releases"
+     ]
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Measles is a highly contagious, vaccine-preventable viral illness that causes a high fever with a full-body rash. Measles infection can affect the body's respiratory, immune, and central nervous systems. The best way to protect yourself, your family, and your community from measles is to get vaccinated.\u200b",
+      "The Maryland Department of Health is working with Maryland local health departments and healthcare providers to respond to an outbreak of measles among unvaccinated individuals; however, there is currently no evidence of widespread community transmission. For more information about measles outbreaks in other areas of the United States, see the John Hopkins Bloomberg School of Public Health",
+      "Cases of Measles in Maryland, as of October 29, 2026\u200b\u200b",
+      "Jurisdictions in Active Outbreak Status, as of October 29, 2026",
+      "MDH Measles-Related Press Releases"
+     ]
     }
    ],
    "news": [
-    {
-     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-     "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-     "new": false
-    },
-    {
-     "title": "Measles is back in Maryland. Here\u2019s how to protect your kids this school year - Maryland Daily Record",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09HcU5XdURMVFNMTlV5RjlLanExY2ExOWM3WnI4ek5kRkdKelhCQ1E4TXo1c19aSGdNRWNDNUFYZDVQTElkMmhtRmtqcDRhZ3hka1FjZW1sVE9wRWdYSHUyWkJxUzNXemFERnpJUnpTZnJwd1BocTg2WEpOVzBzZGR1ZXN5bDgzc1RSVkZpaHI4dEda?oc=5",
-     "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-     "source": "Maryland Daily Record",
-     "new": false
-    },
     {
      "title": "35 measles cases reported in St. Mary\u2019s - SoMdNews.com",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFJYaHR1TGVZSzAyN09TWXdYaFFrU0pLdDl3UHNlRUxKcDVKVUpYb3l2X21VYkNhWW1TWVVUeDNFVGJNN3c0VVZTaXVZbzM4ZjVWLVhVR19xNGVwOU9GSFRycVd2ZUp0LTg4bWpvSHRlbHZGY0hhMnJhNnUwTGhGdXFjY3F1OW9MZWJ3UU5nNW9wMFV5djNkVzRySk5oRENiSFh4eGMwME12U1pEekY3OUlGZ3EzUmFKajNIT1BVNm1HZ1RzbkNpQWNzWnRPdV9O?oc=5",
      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
      "source": "SoMdNews.com",
-     "new": false
-    },
-    {
-     "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGs4clZnVGNJQ2xCcVg5QkRON0VQNjBKYnN1QUZ0elZRQk01bjNhZFA1SDJnYVQ5azN0UVNaSmFkbkpOUFFGWDRXZGFaV1VRUGZZQVpPWVZSclhPcXI1d2syR01aTWZ6Y0prbkdXaXVURzlCQk8xQ2tBbWVqbm1vTWp0QmxzeWU3azRodVJrN2lJVktZV3IyMUQydHN0OXhtLWxnY0U2eERVNEFEQzhiZk5vWQ?oc=5",
-     "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-     "source": "Maryland Matters",
      "new": false
     },
     {
@@ -57,6 +48,34 @@
      "new": false
     },
     {
+     "title": "St. Mary's Measles Outbreak Reaches 35 Confirmed Cases - - - SoMD Chronicle",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXJnQzlvZktSVGRYMEM3STQ2RFBRYnlETjc5SjNpWEtPekNYWWRPLWgzRWZlQUJuMDZBUGtKNmVkOTNyeV9JWk16WWQzQ2dGMzJsUWJMbTliSTJLUEdUSFI4a0lKbUkxMFM0S0lEZFh0V25NMzFuVXBmVWo1OUVZYl95a1pySnpUN2p3alNRdzAxQ25iR2F0d1EyeFdHdw?oc=5",
+     "published": "Thu, 29 Oct 2026 01:37:13 GMT",
+     "source": "- SoMD Chronicle",
+     "new": true
+    },
+    {
+     "title": "Measles is back in MD. Here's how to protect your kids - Maryland Daily Record",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09HcU5XdURMVFNMTlV5RjlLanExY2ExOWM3WnI4ek5kRkdKelhCQ1E4TXo1c19aSGdNRWNDNUFYZDVQTElkMmhtRmtqcDRhZ3hka1FjZW1sVE9wRWdYSHUyWkJxUzNXemFERnpJUnpTZnJwd1BocTg2WEpOVzBzZGR1ZXN5bDgzc1RSVkZpaHI4dEda?oc=5",
+     "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+     "source": "Maryland Daily Record",
+     "new": false
+    },
+    {
+     "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGs4clZnVGNJQ2xCcVg5QkRON0VQNjBKYnN1QUZ0elZRQk01bjNhZFA1SDJnYVQ5azN0UVNaSmFkbkpOUFFGWDRXZGFaV1VRUGZZQVpPWVZSclhPcXI1d2syR01aTWZ6Y0prbkdXaXVURzlCQk8xQ2tBbWVqbm1vTWp0QmxzeWU3azRodVJrN2lJVktZV3IyMUQydHN0OXhtLWxnY0U2eERVNEFEQzhiZk5vWQ?oc=5",
+     "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+     "source": "Maryland Matters",
+     "new": false
+    },
+    {
+     "title": "MD Measles cases swell by nearly 20-fold in 2026. All the latest info - DelmarvaNow.com",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY09ieTllS28wR0xSelBzVzJVUTE4VFMtTWhhME9JajVPck9rNVhOZmNGektFVU9jYW5taTBkeE5ZcTdzVjcxbW1aZ29yTFNkZE13UlpFMXhtVW5haDFzbzZqSFRtWkZXZHpiTEhYWjFZeW1CNVhMOHpIbU5yOU1NeU90cW9xVmRMNmFqM2hVQk9KbVp5bHNqN0t6NGV5aWRockNEZjFUMVMyaDdqVEtGYk82dnIyd0I4aHg4T1dIcUpvUnRuV2t5d0xDNUdYUkNMbHdZWUY4bnVDYnVodkZF?oc=5",
+     "published": "Tue, 13 Oct 2026 12:38:00 GMT",
+     "source": "DelmarvaNow.com",
+     "new": false
+    },
+    {
      "title": "Maryland warns of possible measles exposure in Ocean City during Labor Day weekend - WBAL-TV",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GcmprVXczbDZmcFZhX3dQVk1iQjk5UVl2LWpyeWpzZ3F0akJnWVlmc0xkWkRGRHY0S2lOZi1nMVhmbjFHLXdsRlJ2VUFXRGZudkF4QjN2WnpSX1h4Q282Z3B6ZUJDcEFxTm9GNmRWMldWd19TSUh2ZEM3WDF5UQ?oc=5",
      "published": "Wed, 16 Sep 2026 07:00:00 GMT",
@@ -64,17 +83,10 @@
      "new": false
     },
     {
-     "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "NBC4 Washington",
-     "new": false
-    },
-    {
-     "title": "Maryland health department declares measles outbreak in 3 counties as school year starts - CBS News",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUJnQjB6WFEtellhVjgwQWZ1cTNMeWFudXNXXzNQbUkwcnNtLU1MZ0JQZ2kweTR3OGJVM1ZiazFiMjh0MFpEQ3htTUNPV0gwcS03QkYwdFBXeFNSbjBlVF9oVmtodnZhMnRJQ3hQaEQ1dk1Xbi1YSVVuRWhSUDVQUzRtSXpqT3AwRjF5SVY1Z3hnMG1KR2liMzNjQXlYVVhsLTRrQlRHVTR6NERWUmRxVjJzUQ?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "CBS News",
+     "title": "UPDATE: Delaware Measles Cases Climb to 25 - 47abc - WMDT",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldTUFB1WkF2M1FPVWo0eDJZT0pLTjdETF9sdmNLME52Nk44MEJ0ZzUxTzIyMnU5SDdGVzBiV3lMTkVIbURxRm5MMmJuYnRaemF0OTM5VVZvaEYyWERWc2xTNFlXQmIwc093TE9UZ3Q4YnRLdlMxM3VBSWw5ZGlRSm1RWi1tVHAyazBJNUNSV05PUHQyLTN3ZjkxSXA4Zw?oc=5",
+     "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+     "source": "WMDT",
      "new": false
     },
     {
@@ -85,17 +97,17 @@
      "new": false
     },
     {
+     "title": "Measles Outbreak in Three Counties - Conduit Street Blog",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDRsLU9TYWJYa09ydEo0RktsUzBLVWRlQ2ppYXl4Nks3bnBoYi1aSDlUaFdWM2NGNkNkT3F5Tlo2SEJzdGQ1UmJVRENIYmhHelFPYnl0ME1oT3FyNzlMV3RReHVKQ0Jua0JPcnFia2VCX0EyaDlGcFEyNVNtMnl3ck1fdDlqckRxX05Z?oc=5",
+     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+     "source": "Conduit Street Blog",
+     "new": false
+    },
+    {
      "title": "Former CDC director on politics of measles: \u2018A death is a death\u2019 - FOX 5 DC",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjTl9JampBSFd6a18tNTlCTjgxeXhrMkdWc09sNFBJeDU5a3dYR0t3a1ZWSUFYT0N2M2ZFRm5HQmlpTDl1MVhkeGdSVWJCVXNUSjNYOTl4SmZqUHAxbXfSAWNBVV95cUxPQ1ZvU0tCcW10a3NlRE5SaFZ4YXA0cjFYc3ZEMUNfMzk3aUpLd1VrYWdiNkRRME9ISzIxdy1uMklLMDh1T1NjQzQtMkZvM0VmcEdBUmo4dzdEZ0w1QzdxYXlycWc?oc=5",
      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
      "source": "FOX 5 DC",
-     "new": true
-    },
-    {
-     "title": "Maryland Dept. of Health declares measles outbreak in three counties as cases rise to 31 - WBFF",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlE0WXRsZC1hcHFrblFGcmx1VFpBVUhqMWZ0YktvR19iRkh6TTNHSkdGTm1zU3hoSUszeEJ5Y25nMnMwOFdPX24xcDB5N3liWnAxS3RrSzQwVUpjcVd6X1JFWTlxeV9jN1dFYzdiVGp2am5PRjZ0cEJGTGhqcG13UDNPWXFBYUpZX1E?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "WBFF",
      "new": false
     },
     {
@@ -190,11 +202,11 @@
      "new": false
     },
     {
-     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-     "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-     "new": false
+     "title": "US measles cases surpass 4,500, more than double last year's total - FOX 10 Phoenix",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrREpDWVVpbk5EY1RsTm9zM0V6Q3B3TDZDMnFkQ2dqTWoxR3p0enJVRkxSOVpUdlVHUEFERUUxenZVZkFjYzlBVmNseWRwWFhmVXhFSDNZYUJnZlU0c1VyZGdFRmFSejlBVl9Fb2thSzcyTmJ1QVE?oc=5",
+     "published": "Mon, 26 Oct 2026 16:17:17 GMT",
+     "source": "FOX 10 Phoenix",
+     "new": true
     },
     {
      "title": "Multiple Public Exposures to Measles Identified in Maricopa County - Maricopa County (.gov)",
