@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:52:46+00:00",
+ "generated_at": "2026-11-04T02:51:52+00:00",
  "cdc": null,
  "regions": [
   {
@@ -40,7 +40,7 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXhIYnZWZnFqLV9IU3Q1c3NtSGFFWW9jNU9JLXEwaXNmVUo4bXMtWkp4d2dINjBZTXM0bnNOUHlNUDlydFhXalhBb2NqX0JEeUY1YkRmN3I4djdNN1lxcjh2U2k4aHU4ZkpuU2c5d2N3dGM1SGpISjZaUFNWTGUzWGt3TVQ0SU9D?oc=5",
      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
      "source": "Maryland Daily Record",
-     "new": true
+     "new": false
     },
     {
      "title": "These 248 Maryland schools are most vulnerable to measles outbreaks - The Baltimore Banner",
@@ -155,13 +155,6 @@
      "new": false
     },
     {
-     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
-     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
-     "source": "Coconino.az.gov",
-     "new": false
-    },
-    {
      "title": "Measles continues to spread in Arizona. Confirmed cases increased in June - KJZZ",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -169,24 +162,31 @@
      "new": false
     },
     {
-     "title": "First Coconino County measles case of 2026 confirmed in Page - Navajo Times",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
-     "published": "Sat, 21 Mar 2026 02:26:34 GMT",
-     "source": "Navajo Times",
+     "title": "Measles virus detected in Sedona wastewater samples - KNAU",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFJUOUVBQ3lVQmtsakJSOTZLOEVSaTRzWk0xRTBZaHR4Qkg0ek4yR3N6YXNjZU1kcl9memRxYnBUT2loRW5VelVSd3plYWJXQ3UxV1NXcVhFQmVLNUtrenNwQ2EzOEx0TEVoZDNxSjZJZzVXMGhTUHJSeDlpY2NSdzVKWnVTYlUwQkgyWEhySHllQnVpa0tDVXJ5N2hKQWpDeUVsaDFSb2s?oc=5",
+     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+     "source": "KNAU",
      "new": false
     },
     {
-     "title": "Arizona-Utah measles outbreak surpasses 500 cases - azcentral.com and The Arizona Republic",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMThPU3RIcU5Qc1hpQXhzcW5jczNoUmttODNad1YtRWluSWV2NzQ2a1J3LVZyNXluS3hUTmFYUXFKMmd0OVdCbmxfVTNrbEIzNDV6MGNaS3lBbTVvQndRUWVrMTRoZHdLWDJ1QW1PalFETm54YlRSTzlwcnd1V29xVkppeDZ0ZUZxS3hwRDlvLWpaWGtLQm5ZYk9zNkpqMzl6NGhPZ3hLbGVNcE1YOW5mckNBNEhjU2FtRWVWLXhpYzM2MW9yVUJJSzVCTQ?oc=5",
-     "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-     "source": "azcentral.com and The Arizona Republic",
-     "new": false
+     "title": "New measles case reported in Yavapai County; virus detected at wastewater plant - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEh3UXVodDNTZTE2czdYcHhIeTFoOHFKWW9oYVYxWXpNaF8xVENTYlQ0ang5QlJFZmp1eWxSdXFvaTRLeExSaXotSTZEZXJyTE8tOVU5ZEZaaXB4SVRkdTItRDY2NlBCcjE2LUxYdGhtVWxhMXNHN3VkX3dsRlZRdjM2YzZfY2liUEVnSjZjcm4tY0xvWDB6S0RtVmtNTnhVN3BqMVdqNGd4TFQwdHg4aEswa000Zw?oc=5",
+     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+     "source": "AZ Family",
+     "new": true
     },
     {
-     "title": "Mesa youth basketball is sight of latest measles exposure - KTAR News 92.3 FM",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNDhHcXRIaDFQQXNqdFI2V053c201el84SUNLel9FU3R2N0dLNGx6OW0zRVpRNmllMHh6NEZocGxfZUlfZV9xXzRjUTJzX2FUT0pHb0loQzQyWldYOVVSQjlQZmo2eG1pTXNHQ3dKaw?oc=5",
-     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-     "source": "KTAR News 92.3 FM",
+     "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - Prescott Daily Courier",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQkUxOFprbzAtUXlzRmhkMUNtdDcxY2JiaVJtVDVWNGFFekRiNjdfOHRMVXphcXZOVnptWWVDc1NnOU5fOGhpS3FNdGRsZkM3TFNwcWJpN1N6Nng5SERIY2poc3ZrNHhsOUtibVVFQjZ5QjhjVEthSEtGbHB5UWxnNEl3MTVTNnIyZUNiR0tUMTF2dFFxTlJ3SFVicEN4VVFQdzEzNlFPaS1CX2x6OURQaVMxSHp0SHpqb0U3UkNMVURvUmYwUy1DVHFHYXE1NmRqb1FNZTVVZnN1ajZpSE1tNE5IVFA1NlJIUWRGMlNhOTE?oc=5",
+     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+     "source": "Prescott Daily Courier",
+     "new": true
+    },
+    {
+     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
+     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
+     "source": "Coconino.az.gov",
      "new": false
     },
     {
@@ -204,17 +204,17 @@
      "new": false
     },
     {
-     "title": "Measles case counts mount in Utah, Arizona, while Bangladesh, Guatemala battle deadly outbreaks - CIDRAP",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkZMT1luSm13eFZUZkUzUnRpWEpUbHR3OS01WmRJREFTNG4zdGh2NHVpa0twWTB2WHd2V1FlcW9xSklvU09NX2NHSnJ3N3NzZHd6alpYNG9Dc1lIYXk4VVZ4RUc3aUVodHBGZWk5T1BHS2V3RWlvcC1sdUZVamFid1k4REJ5WFJ2ZU1uX250UGVXWHhxSWZkdndHTUFtSGpUOXd6M2ZVNzZTTGdvZkVhUVFNV0lpRU1JRDBnRnNBODZoZw?oc=5",
-     "published": "Fri, 01 May 2026 07:00:00 GMT",
-     "source": "CIDRAP",
+     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
+     "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+     "source": "AZ Family",
      "new": false
     },
     {
-     "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE53eUE5YTFMaGt0UFR6UEZxT2hnVm9YdS1ucFI1Y24tV3ZwUXBfRHVVS2ZISEtITHZzcmhqNkd3QUNyWlY4aGN0ZjROUnN4alJydU51ZElBTHAyeG9pQU1aaVkzTEZ2eC1UNEg1d05ZT3ktY2s1NmxKLXFQWUhBSnM0VWFLak5iQTZJUFpsWHJIQjFmeTlLeGpNU25nc2ZKMHlNV0hsUnpjVmvSAb8BQVVfeXFMTlFsSWh1dU54RUVhQXJGb2dfVzdvczhlc3dGSnNHRXVRLTZKekIxd3FNYnRVaVR5TU5IdVZ0ak9iQVdEdEpObHhjLXZBbmMtU1hFc0NWMEg5MTBUdXU5bWRHajltamQzVnRiclJQUC0tNXBXNzVYTXc4c1ViaTZyRlctWFB6NGVsaUVPVlZOTDVtNzFvMnpXNVRGejlFaUlQVjEtUHgwNUpYNTBERm9fYjdPR3l3ZVMyZjNpRDJpTkU?oc=5",
+     "title": "There are already more U.S. measles cases this year than in all of 2025 - PBS",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjhWM2E2ZXVQN0l1UHNOenJSRm5DNkM2RGtBN2YzcHdjQTE1bENmbm1tclhxSV9McnRiNS1vb0pxdVhFVlFxX0pjcUt6WXdOd3VqNkhsLUZNRkNUcmRtMVY2Rm9CLXFIVnVSVGt0Uk5mdW5oYmFLWWQ4SlVqVDBobFVWTlJKV2pUa09jWmdjcUc1aHhWaHBiNWJIWUlhSDdZdEh0YWgwaDAwQQ?oc=5",
      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-     "source": "AZ Family",
+     "source": "PBS",
      "new": false
     }
    ]
