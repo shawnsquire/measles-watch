@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:23:23+00:00",
+ "generated_at": "2026-11-06T19:44:54+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,15 +9,21 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of November 5, 2026\u200b\u200b",
+      "Jurisdictions in Active Outbreak Status, as of November 5, 2026"
+     ]
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": false,
-     "new_lines": []
+     "changed": true,
+     "new_lines": [
+      "Cases of Measles in Maryland, as of November 5, 2026\u200b\u200b",
+      "Jurisdictions in Active Outbreak Status, as of November 5, 2026"
+     ]
     }
    ],
    "news": [
@@ -159,7 +165,7 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWpqUkIwSmttZ0JETkNqRXk1dERzeG1ubDlIR2M1UWFLaGkzaEhWQWx5RjUydl9XVTR3VDZrQlB5bmdreUNSTHpUNXFQcVh0UnppdDN4NG4zTXQ3RWhEaXBySXExeXpUSS01YXI1NkE1TEpvTWJuZWNIZF9PX1A4aWc1NHM5cFl2b3VHS0pB0gGiAUFVX3lxTFBGTFNyRXk1YjgwOUIzdlV1djZaTHkwbllwc0hITW11Zmx2MXR5Mlo2dkNXMG8zQjZoa2VtUHh3RnhsQ0EyQVFUblJIbXlzeDQ5NWJ6ZjVYRzZjcnNENHZZZFM1SDN6eURBWmdRVnhyaW1TSC1iU2lNUEJOSjB3dlVVdlo1TVhpcVlIQlE3OS05THNEQ2c3VkpMNTFpbXVFbHpTdw?oc=5",
      "published": "Sat, 21 Mar 2026 07:00:00 GMT",
      "source": "AZ Family",
-     "new": true
+     "new": false
     },
     {
      "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
@@ -183,10 +189,10 @@
      "new": false
     },
     {
-     "title": "Arizona-Utah measles outbreak surpasses 500 cases - azcentral.com and The Arizona Republic",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMThPU3RIcU5Qc1hpQXhzcW5jczNoUmttODNad1YtRWluSWV2NzQ2a1J3LVZyNXluS3hUTmFYUXFKMmd0OVdCbmxfVTNrbEIzNDV6MGNaS3lBbTVvQndRUWVrMTRoZHdLWDJ1QW1PalFETm54YlRSTzlwcnd1V29xVkppeDZ0ZUZxS3hwRDlvLWpaWGtLQm5ZYk9zNkpqMzl6NGhPZ3hLbGVNcE1YOW5mckNBNEhjU2FtRWVWLXhpYzM2MW9yVUJJSzVCTQ?oc=5",
-     "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-     "source": "azcentral.com and The Arizona Republic",
+     "title": "Mesa youth basketball is sight of latest measles exposure - KTAR News 92.3 FM",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNDhHcXRIaDFQQXNqdFI2V053c201el84SUNLel9FU3R2N0dLNGx6OW0zRVpRNmllMHh6NEZocGxfZUlfZV9xXzRjUTJzX2FUT0pHb0loQzQyWldYOVVSQjlQZmo2eG1pTXNHQ3dKaw?oc=5",
+     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+     "source": "KTAR News 92.3 FM",
      "new": false
     },
     {
@@ -194,7 +200,7 @@
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeV9QUWdLSDlsM0Jpa1lpRzF5VmU2SjRhTWhfODZTQmJaNl8yem5FTG5iYnM1eVYwdF9MNWYzcnJ4SVpxVU1YcThwRXZPNWJHZWM2UDB1VnBaeXduenBGNkdvTk4xV3dodVp1ZTlPR19GcnZvdnpSZEZmVFZjZU1FWHNjbW8yN0NJNEtCR0tiZkltRURqTmxOd2I1SlRSZ3I1R1BxNA?oc=5",
      "published": "Thu, 05 Nov 2026 12:00:00 GMT",
      "source": "KJZZ",
-     "new": true
+     "new": false
     },
     {
      "title": "Multiple Public Exposures to Measles Identified in Maricopa County - Maricopa County (.gov)",
@@ -204,17 +210,17 @@
      "new": false
     },
     {
-     "title": "Measles case counts mount in Utah, Arizona, while Bangladesh, Guatemala battle deadly outbreaks - CIDRAP",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkZMT1luSm13eFZUZkUzUnRpWEpUbHR3OS01WmRJREFTNG4zdGh2NHVpa0twWTB2WHd2V1FlcW9xSklvU09NX2NHSnJ3N3NzZHd6alpYNG9Dc1lIYXk4VVZ4RUc3aUVodHBGZWk5T1BHS2V3RWlvcC1sdUZVamFid1k4REJ5WFJ2ZU1uX250UGVXWHhxSWZkdndHTUFtSGpUOXd6M2ZVNzZTTGdvZkVhUVFNV0lpRU1JRDBnRnNBODZoZw?oc=5",
-     "published": "Fri, 01 May 2026 07:00:00 GMT",
-     "source": "CIDRAP",
+     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
+     "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+     "source": "AZ Family",
      "new": false
     },
     {
-     "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE53eUE5YTFMaGt0UFR6UEZxT2hnVm9YdS1ucFI1Y24tV3ZwUXBfRHVVS2ZISEtITHZzcmhqNkd3QUNyWlY4aGN0ZjROUnN4alJydU51ZElBTHAyeG9pQU1aaVkzTEZ2eC1UNEg1d05ZT3ktY2s1NmxKLXFQWUhBSnM0VWFLak5iQTZJUFpsWHJIQjFmeTlLeGpNU25nc2ZKMHlNV0hsUnpjVmvSAb8BQVVfeXFMTlFsSWh1dU54RUVhQXJGb2dfVzdvczhlc3dGSnNHRXVRLTZKekIxd3FNYnRVaVR5TU5IdVZ0ak9iQVdEdEpObHhjLXZBbmMtU1hFc0NWMEg5MTBUdXU5bWRHajltamQzVnRiclJQUC0tNXBXNzVYTXc4c1ViaTZyRlctWFB6NGVsaUVPVlZOTDVtNzFvMnpXNVRGejlFaUlQVjEtUHgwNUpYNTBERm9fYjdPR3l3ZVMyZjNpRDJpTkU?oc=5",
+     "title": "There are already more U.S. measles cases this year than in all of 2025 - PBS",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjhWM2E2ZXVQN0l1UHNOenJSRm5DNkM2RGtBN2YzcHdjQTE1bENmbm1tclhxSV9McnRiNS1vb0pxdVhFVlFxX0pjcUt6WXdOd3VqNkhsLUZNRkNUcmRtMVY2Rm9CLXFIVnVSVGt0Uk5mdW5oYmFLWWQ4SlVqVDBobFVWTlJKV2pUa09jWmdjcUc1aHhWaHBiNWJIWUlhSDdZdEh0YWgwaDAwQQ?oc=5",
      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-     "source": "AZ Family",
+     "source": "PBS",
      "new": false
     }
    ]
