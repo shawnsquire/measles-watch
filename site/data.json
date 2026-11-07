@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:44:54+00:00",
+ "generated_at": "2026-11-07T17:53:31+00:00",
  "cdc": null,
  "regions": [
   {
@@ -9,21 +9,15 @@
      "name": "MDH measles page",
      "url": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of November 5, 2026\u200b\u200b",
-      "Jurisdictions in Active Outbreak Status, as of November 5, 2026"
-     ]
+     "changed": false,
+     "new_lines": []
     },
     {
      "name": "MDH measles hub",
      "url": "https://health.maryland.gov/measles/Pages/default.aspx",
      "ok": true,
-     "changed": true,
-     "new_lines": [
-      "Cases of Measles in Maryland, as of November 5, 2026\u200b\u200b",
-      "Jurisdictions in Active Outbreak Status, as of November 5, 2026"
-     ]
+     "changed": false,
+     "new_lines": []
     }
    ],
    "news": [
@@ -84,10 +78,17 @@
      "new": false
     },
     {
-     "title": "New measles cases confirmed in 2 Prince George's County residents who traveled internationally - WBAL-TV",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEh2VFpiV0lCUmtRLUxDRkdXWXdDS3lPQmJMU3oyZlc2TURqUjQ4dmdYTFV4bGd6TTlvNDFEcjNoY1k3MDMyWXVFZ3VLeDJ1R1VqdW9DMG1SM2VkN1pnU3dIUWQ3SkZ6bUoxQk9uR0o1cFUyakkwemozR0JZOHBtNFlzdTJOQWQ4WVktdFFxSHBkc0FiWHRORUNmVkRQZnlMZnMw?oc=5",
-     "published": "Thu, 20 Mar 2025 21:52:43 GMT",
-     "source": "WBAL-TV",
+     "title": "Measles outbreak in three counties shows importance of vaccination, officials say - Maryland Matters",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlhpY2JyQkdOLWhodW9wMXU0Z0tLVGZyQjV0OW1yUnRGRjVqNVl2WExwbkJMTkJRV1JwMXl5NHJZcy1UWlBRallrVXZKVVQzdTQtTGlkRF9JWjl0a1NoZ3J2c3hBbjV4Q0Y3WGZySDhBdkkyeEVWMUNUYUdnNTR5RkswN3dXTGtTZnlaOHRodmtpMVZ3WWVRaVAzb3VSYk1PZXh5Xy1BTGQtR0NyQTZSSHBwM1NGLWNGTEF2Zw?oc=5",
+     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+     "source": "Maryland Matters",
+     "new": false
+    },
+    {
+     "title": "Measles outbreak declared in 3 Maryland counties - FOX 5 DC",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqZF91ME4wWGNReFVuSnhiajJwQ0Z2bm44c2k1OThlSVFPUG1LaS1FY2N5X2ZGNTZSczFQWkoteVBITm9pcTNWY0lXY0RLSXdJWUJlNGhJZTZhVE5BQXfSAWNBVV95cUxQN01MUnpaLThaQkRXTTdqaXZ2Zm1JeDlWVnNXcFl0cTNOZmdWdUhoblE0SG9Edk05dHZaR0RzWEFvZnhCTXptRVI4azJ0c1AzdmRIV3kyTWx3YldPdWZQU1RCVE0?oc=5",
+     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+     "source": "FOX 5 DC",
      "new": false
     },
     {
@@ -98,17 +99,10 @@
      "new": false
     },
     {
-     "title": "Measles outbreak in three counties shows importance of vaccination, officials say - Maryland Matters",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlhpY2JyQkdOLWhodW9wMXU0Z0tLVGZyQjV0OW1yUnRGRjVqNVl2WExwbkJMTkJRV1JwMXl5NHJZcy1UWlBRallrVXZKVVQzdTQtTGlkRF9JWjl0a1NoZ3J2c3hBbjV4Q0Y3WGZySDhBdkkyeEVWMUNUYUdnNTR5RkswN3dXTGtTZnlaOHRodmtpMVZ3WWVRaVAzb3VSYk1PZXh5Xy1BTGQtR0NyQTZSSHBwM1NGLWNGTEF2Zw?oc=5",
-     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-     "source": "Maryland Matters",
-     "new": false
-    },
-    {
-     "title": "Confirmed case of measles reported at John Hanson Montessori - FOX 5 DC",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckhPRUp1VU1aLTV3UkRCRnRzMUVhbmxpMDdFZzhzSUp0cW5rdUlGMmdfY1lYRGJQZkRPeEJzSzhTSTc1SGZ6alc2cS0zNjBVWTlhcWFlWF82NFdlZGhqRnhNX0tBUTlMVTNPS1lfUUE5emxsLUljMnBndVhRYjJqMlpGeHRQSUZEN3p5UGM0MC1qb195dDhYc05ETDhzdnhEbl93U2Z4a9IBrAFBVV95cUxPQ3FaN3Z2YmVsSmp3eHlYQk5vcnl4TklaaV9SeDdLbFZWR3N4SnBvSXNsRFQ2WkxLbk8zM3J0OFFFQTZCbTEyYko1S0pMV1R1Zkh5Vl9URDE0VnRybzJENjh0cXFmeGVCcVdzM0lpUXRQVUprMUhremMtQU5lRjF4S1gtUnIyaUN6Z05ZVWQtRnBwcDhiX08zVFN4MXk5RW8wT0Z6OHA4QTk2dXRj?oc=5",
-     "published": "Fri, 21 Mar 2025 07:00:00 GMT",
-     "source": "FOX 5 DC",
+     "title": "Maryland reports 27 measles cases since July 15, all among unvaccinated residents - WJLA",
+     "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPbjVPRVFET09hRFlCS0lILXhGLUJNbkdtdTA3SDdBcWdtSWgzNER0YUFmcEdUZVFvOVVWN19XOHZRSmVfRS1laFpUXzNkUVlFM0JEdUgwM0REODVkZHgwWWNOWnFaREpfS0dVRHJGb3hyMFR3b01OdUFwOF9SR2RJNm5qdlY0Q0ZuVm52bGhMT2FKSnNScFJqbjhYaDhTa1lRNUlYVFRSM2k1RlVTSTFNZDIwN1oya1BJU1JsdW80VmFBTTRiMF9HZUZjM0o0UmRrUVBOS1lLLUVGZFVjb2dORnNMbE9PUm41VWlualBnY3BnbGs5UURtNjBRODhUSGFpY0dQbVRfV1E2STBXM2ZGeHRQMm4xMUYzZk54Q1kyRUxxNHJfT2p5YXVFZ2xZVVpqV1JHem9nelFKd1g4SFpyRzNVV0JJVTM2QmRVa1BvRGRmNlZhTGpQaXgxN2xlM3NFT1ExVGlEUGxtZ1pQOTlIT3l3UlRyOVU5Ry1sdW9UOHhFSE9wVW1DcmltaHN2c1Qt?oc=5",
+     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+     "source": "WJLA",
      "new": false
     }
    ]
@@ -161,17 +155,10 @@
      "new": false
     },
     {
-     "title": "Coconino County confirms first measles case of 2026 - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWpqUkIwSmttZ0JETkNqRXk1dERzeG1ubDlIR2M1UWFLaGkzaEhWQWx5RjUydl9XVTR3VDZrQlB5bmdreUNSTHpUNXFQcVh0UnppdDN4NG4zTXQ3RWhEaXBySXExeXpUSS01YXI1NkE1TEpvTWJuZWNIZF9PX1A4aWc1NHM5cFl2b3VHS0pB0gGiAUFVX3lxTFBGTFNyRXk1YjgwOUIzdlV1djZaTHkwbllwc0hITW11Zmx2MXR5Mlo2dkNXMG8zQjZoa2VtUHh3RnhsQ0EyQVFUblJIbXlzeDQ5NWJ6ZjVYRzZjcnNENHZZZFM1SDN6eURBWmdRVnhyaW1TSC1iU2lNUEJOSjB3dlVVdlo1TVhpcVlIQlE3OS05THNEQ2c3VkpMNTFpbXVFbHpTdw?oc=5",
-     "published": "Sat, 21 Mar 2026 07:00:00 GMT",
+     "title": "New measles case reported in Yavapai County; virus detected at wastewater plant - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEh3UXVodDNTZTE2czdYcHhIeTFoOHFKWW9oYVYxWXpNaF8xVENTYlQ0ang5QlJFZmp1eWxSdXFvaTRLeExSaXotSTZEZXJyTE8tOVU5ZEZaaXB4SVRkdTItRDY2NlBCcjE2LUxYdGhtVWxhMXNHN3VkX3dsRlZRdjM2YzZfY2liUEVnSjZjcm4tY0xvWDB6S0RtVmtNTnhVN3BqMVdqNGd4TFQwdHg4aEswa000Zw?oc=5",
+     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
      "source": "AZ Family",
-     "new": false
-    },
-    {
-     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
-     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
-     "source": "Coconino.az.gov",
      "new": false
     },
     {
@@ -179,6 +166,13 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFUdHRrVlU5UVFzQllsclppeVVCRzZySU9HOVdPWXRtdkpkWGNFMmVfZ1FubEVic1JrQmMxcjZ5Q25JTkxSN1RyREtacHRPRnFTY3ZjcTJfaXV0a1VHSkNwYTVjQ2ROUzdrbUkwMHNoQUlfVEpIelNTZmZ4WVc1WXZpNVFZc21iT0FMQldpUV9adUFfLWlZYUx5NWdaMEZ5dHd1emowcFhjZ2lqNDg5MnF3?oc=5",
      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
      "source": "KJZZ",
+     "new": false
+    },
+    {
+     "title": "Additional measles public exposure locations confirmed in Coconino County - Coconino.az.gov",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROGdMemZ2R3JkYTVOZ3VneDhkaDRoSlpCUm9WNmVGN0Q2cFZ1UmVTX2tyd2lydS1hYTlIcDhVUXlWdllyY3o4MjMxY2xvUHZQV083YTF1TDYyQkVaR1lsLXV2N3dZQjA?oc=5",
+     "published": "Mon, 30 Mar 2026 22:21:43 GMT",
+     "source": "Coconino.az.gov",
      "new": false
     },
     {
@@ -196,20 +190,6 @@
      "new": false
     },
     {
-     "title": "Arizona hasn't confirmed any measles cases in more than a month - KJZZ",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeV9QUWdLSDlsM0Jpa1lpRzF5VmU2SjRhTWhfODZTQmJaNl8yem5FTG5iYnM1eVYwdF9MNWYzcnJ4SVpxVU1YcThwRXZPNWJHZWM2UDB1VnBaeXduenBGNkdvTk4xV3dodVp1ZTlPR19GcnZvdnpSZEZmVFZjZU1FWHNjbW8yN0NJNEtCR0tiZkltRURqTmxOd2I1SlRSZ3I1R1BxNA?oc=5",
-     "published": "Thu, 05 Nov 2026 12:00:00 GMT",
-     "source": "KJZZ",
-     "new": false
-    },
-    {
-     "title": "Multiple Public Exposures to Measles Identified in Maricopa County - Maricopa County (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
-     "published": "Tue, 21 Jul 2026 22:44:19 GMT",
-     "source": "Maricopa County (.gov)",
-     "new": false
-    },
-    {
      "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -222,6 +202,20 @@
      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
      "source": "PBS",
      "new": false
+    },
+    {
+     "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
+     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+     "source": "Axios",
+     "new": false
+    },
+    {
+     "title": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures - Maricopa County (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ed0R5d0ZzUC1uMGFlaTExTFJDeDUzYXVSek5ZUGpBdGh3V200dnpPV0gxbEZjczI3SnNUTk1nSkd2YktsdWYtRjNmMGVROVVybjVQNjJsSGpuNWFwRFFEQUh3?oc=5",
+     "published": "Fri, 17 Jul 2026 20:23:34 GMT",
+     "source": "Maricopa County (.gov)",
+     "new": true
     }
    ]
   }
