@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:53:31+00:00",
+ "generated_at": "2026-11-08T18:08:22+00:00",
  "cdc": null,
  "regions": [
   {
@@ -21,6 +21,20 @@
     }
    ],
    "news": [
+    {
+     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+     "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+     "new": false
+    },
+    {
+     "title": "More than 5K measles cases reported in U.S. this year, the most since 1991 - CBS News",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVl6eTZLaS01R2Ffano2X1hJUko5ck00TlZlRTZhaWNPSWtYVnEwMUtOT1pBdHV3M19VSG9Fd2VtMWl5YUFZRmY0QmV6VlNaV1BsajV4RlNQYXAxRTI0RmxQS05iakpIVFB6ODQ4VVg2cm5Bc3pyd1IyWk00ZDJQV1dWOTN6SkNlMjhhWGxnRnd3c1JETUtPRVgxUTZnN3hyRDVrTjNtSjRTczVwcjliU2ZFaw?oc=5",
+     "published": "Sun, 08 Nov 2026 00:08:00 GMT",
+     "source": "CBS News",
+     "new": true
+    },
     {
      "title": "35 measles cases reported in St. Mary\u2019s - SoMdNews.com",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFJYaHR1TGVZSzAyN09TWXdYaFFrU0pLdDl3UHNlRUxKcDVKVUpYb3l2X21VYkNhWW1TWVVUeDNFVGJNN3c0VVZTaXVZbzM4ZjVWLVhVR19xNGVwOU9GSFRycVd2ZUp0LTg4bWpvSHRlbHZGY0hhMnJhNnUwTGhGdXFjY3F1OW9MZWJ3UU5nNW9wMFV5djNkVzRySk5oRENiSFh4eGMwME12U1pEekY3OUlGZ3EzUmFKajNIT1BVNm1HZ1RzbkNpQWNzWnRPdV9O?oc=5",
@@ -61,20 +75,6 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
      "source": "NBC4 Washington",
-     "new": false
-    },
-    {
-     "title": "All 17 Maryland measles cases since July were in unvaccinated people - Montgomery Community Media",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWURjbkU3aWVUY253d0N2eUZxQ2syWGM1MXVQMkdCeVJwUnJmdmZJY2xNUFgyTDEyWm9hNnU4d1pjTm1VWUJSdFYtLXVrRThsWjBhWmVLNkNzS2J1LTR1UnhQXzJvZnR2S1RHMTk3VQ?oc=5",
-     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-     "source": "Montgomery Community Media",
-     "new": false
-    },
-    {
-     "title": "Maryland health department declares measles outbreak in 3 counties as school year starts - CBS News",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUJnQjB6WFEtellhVjgwQWZ1cTNMeWFudXNXXzNQbUkwcnNtLU1MZ0JQZ2kweTR3OGJVM1ZiazFiMjh0MFpEQ3htTUNPV0gwcS03QkYwdFBXeFNSbjBlVF9oVmtodnZhMnRJQ3hQaEQ1dk1Xbi1YSVVuRWhSUDVQUzRtSXpqT3AwRjF5SVY1Z3hnMG1KR2liMzNjQXlYVVhsLTRrQlRHVTR6NERWUmRxVjJzUQ?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "CBS News",
      "new": false
     },
     {
@@ -190,11 +190,18 @@
      "new": false
     },
     {
-     "title": "Maricopa County measles cases reach 30-year high following Scottsdale pharmacy exposure - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZudWxKd0N5Uk5vd3VMcnpyWVRCdTFWeDI3NEZyUlJfcTJSazVWdVRUWmhXYXoxU0hGVU15Tk9xaTBqWnRzUmpXckJKUURiSXdyNTdobjdwdnNqeVBtM1dtUXZ1SFdYcElWMjFiWkE1Q29GYWVyNHhBTUhkVm1NdFVqeU90LTZKR3ZDQ0VuOGVZaXEyWHlmbHVxdXF6RDRIMFk2SGlsSXFfRUlpdEdoaUhDeTAtSFFZRExNVEFCV0hGd9IB1gFBVV95cUxPYU44UFlEcmJpbkNUMXBHZ3M3TlF2bmh6UlJNSk9HdXk0OWR0cUxEaWc2MlhMVUhtbDNOdTRwQUhfdjNIU1BocVdZeUVSVndWQl9XYmc1eGRnVFJKN2kzV3RIMHNGVk85S0w3VGFtVEctR25HaXJjQ3FsRWNCNVZ3ZWxQZFNYVHNSUkRYRm1SWVhEMUY4NkRUWXBSOW9DZGRSTXp4VXdvSzlPN3AtR3ZlaEx1TzMyMm9DMTlReXVnemRwczR2dXFYdFVWTGtwUDd1bHIwbGh3?oc=5",
-     "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-     "source": "AZ Family",
+     "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+     "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
      "new": false
+    },
+    {
+     "title": "State reports first measles death in more than 30 years - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVhlWEZGaDNjRlp2bVR2THhVVDdkcGtxZ2ViWXVqcGdhTTg1MS1QUTN3a19oTTltbEtBOC1zamNGQXViS0RhMzY4c0dieS0zTFNGWGEtM3RwWkNiSklwRDBtbWx6WGFVV2NnM0JSeTNwUmxieDE4cHl1YTlXcXNiQ3VHT1RfTTVZZC05M1VfZWs3VWvSAacBQVVfeXFMUHAyT1J3R29LMkVIQmplVTdGU1JHNktFRUFCbTFLU3Y5MU10a3ZCRS1oWFdwa3UxNU1uUHFvVUFUYkZ6dVpFVFRuSnh4LVRrYVlmcmNtTVBBRFJaSmt4Q2FaY3lLVm9jY2Y1cFRqNXJvbGpjSWI0cUJLcDhuUUp5VlpidHRHMlRLbW5GaXU0cU5PcVBYbEZacHdSbC1hbENxSlF2Mi10ak0?oc=5",
+     "published": "Tue, 03 Nov 2026 21:58:00 GMT",
+     "source": "AZ Family",
+     "new": true
     },
     {
      "title": "There are already more U.S. measles cases this year than in all of 2025 - PBS",
@@ -209,13 +216,6 @@
      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
      "source": "Axios",
      "new": false
-    },
-    {
-     "title": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures - Maricopa County (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ed0R5d0ZzUC1uMGFlaTExTFJDeDUzYXVSek5ZUGpBdGh3V200dnpPV0gxbEZjczI3SnNUTk1nSkd2YktsdWYtRjNmMGVROVVybjVQNjJsSGpuNWFwRFFEQUh3?oc=5",
-     "published": "Fri, 17 Jul 2026 20:23:34 GMT",
-     "source": "Maricopa County (.gov)",
-     "new": true
     }
    ]
   }
