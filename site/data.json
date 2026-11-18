@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:26:12+00:00",
+ "generated_at": "2026-11-18T03:59:53+00:00",
  "cdc": null,
  "regions": [
   {
@@ -31,8 +31,15 @@
     {
      "title": "US loses measles elimination status after nearly three decades - Maryland Daily Record",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGFCQmQ2WkVnakhjOGZpSUtFVU1YVTc5S19nWUhNTTR2NW5pZnpPVVN3R1NMUjA1c2g1X3NLVHBIMDRCVDBrRW1jVlR4Y2tUaUllT3BqdHcyZ2FlQ2FNQUZGYXhzRXNuckFSUDlZOEhlb0ZTWXFLZWVJaElNRzlHZFVZOU50YW5uLW9KZlRwWVp3eTA?oc=5",
-     "published": "Tue, 17 Nov 2026 18:10:00 GMT",
+     "published": "Tue, 17 Nov 2026 18:10:39 GMT",
      "source": "Maryland Daily Record",
+     "new": false
+    },
+    {
+     "title": "US loses measles elimination status as cases climb in Maryland, nationwide - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUVfME55RWQzdUVaeHh1SVh2YXdKMGFPV0E5UmVmZVZxSmlNU1VFMHE2NmluVU53UVU0Sm9GRkhTMFNvNUtmMUJnZXdpT2xyTWpFVHg5ZzhXaDhIYlFJT1lOOW8wQ0k5WWhlTXZHa2RBemh6RDBoVjk0QU9sbnNQV012eElPQQ?oc=5",
+     "published": "Wed, 18 Nov 2026 00:53:57 GMT",
+     "source": "Baltimore Sun",
      "new": true
     },
     {
@@ -40,14 +47,7 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTA5M0s3M3VkZnQ0QXB4dkRhNmYzckNOMGxubkJwTFZ3QU1YYk1IQzdmRVlQS0VENDQzVGhEbk11TzhCZ1dZVFVJbTJ4VV8xZU9IN2dFZXJPN25YQldVNllMZnFMWGpFMnJWSFpiZ0lGbm82cFZzeFBfSzVBQmtyVnZ5UmtyWkhlQmZtV2YyZjZqUExhbXBFa3pacW5SaThtSVAwT3FSTmwxc2cxN21V?oc=5",
      "published": "Tue, 17 Nov 2026 15:00:00 GMT",
      "source": "- SoMD Chronicle",
-     "new": true
-    },
-    {
-     "title": "United States loses measles elimination status, according to PAHO - WBAL News Radio",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcTdHNWhVN2FUdTJyR3BsZXNVanlhODFBZHdXMnJ3R0J4MTRqSEJjdnp3YjhlZVoyb0RpbFduWDRHS1U2S1lNMGgzMGg1dzNIQ2VNSHRKbnpzRnNDQ0gyY1lkVDVPdHBB?oc=5",
-     "published": "Tue, 17 Nov 2026 09:43:18 GMT",
-     "source": "WBAL News Radio",
-     "new": true
+     "new": false
     },
     {
      "title": "Maryland warns of possible measles exposure at three Ocean City locations - Maryland Matters",
@@ -64,9 +64,9 @@
      "new": false
     },
     {
-     "title": "Maryland Department of Health declares measles outbreak in 3 counties with 14 new cases - WBAL-TV",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hYOHVWYW9qUU94T09Pa01uWllDcHBWRW5UMHpuSGtPSjBWWUNUcm9xUTZQNGRMd2NmZ3J1aVJwclhaNkVaaV9meTR2aUdYZkk4THd5WU9aWktodHJpWkhfRjlMTVRPREszWTctRjgtbkZhLWRBdWdibzBQNWhDRW5vWWZwQU5xV05nWWdSX0J6M1RRaElKMGYzRjdkdw?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+     "title": "Maryland warns of possible measles exposure in Ocean City - WBAL-TV",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GcmprVXczbDZmcFZhX3dQVk1iQjk5UVl2LWpyeWpzZ3F0akJnWVlmc0xkWkRGRHY0S2lOZi1nMVhmbjFHLXdsRlJ2VUFXRGZudkF4QjN2WnpSX1h4Q282Z3B6ZUJDcEFxTm9GNmRWMldWd19TSUh2ZEM3WDF5UQ?oc=5",
+     "published": "Thu, 17 Sep 2026 00:23:27 GMT",
      "source": "WBAL-TV",
      "new": false
     },
@@ -92,17 +92,17 @@
      "new": false
     },
     {
-     "title": "Maryland Declares Measles Outbreak in Three Counties Following 14 New Cases - The MoCo Show -",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV9fR2ZIbEl0eEZVb2F5cWdXdDl4Rk1JbVJXMGtMaS1jQ19MN21vTlZUSmI5bDNZQXk5SThuZzQ2ZjJqSkFON1o3MlFvRHZkTUE0SnZfUUxXaHBiOTFpWWFSQ25xQm9GeFNSeVB6XzN4RmdzZXZHLW40OVQyWGVYSTlETnF2VWg1WHVuR1FCWjh2SjVrVUYzUDZMNGF1UHV4cnRHc1VFYzZJMnpG?oc=5",
-     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-     "source": "The MoCo Show -",
+     "title": "Health officials confirm two measles cases in Anne Arundel area - Baltimore Sun",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPam9JZmhwNVE2VElaWkRTcEN3SU1ySDZLYlFLVkl6ektLbUNmSjdaNzhlWTVzVmNRelhtOVY5d0RYdlo5R1Y5SVA2dVdDZjBJS2wzS1d6RVdJeUI5R0hPWVFvdVJ6azhsYWVJRUNXdVdRSlFPMXhxTjFWME1mS3lQeFlscU1wQlI5ZkptZVVXb29fZw?oc=5",
+     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+     "source": "Baltimore Sun",
      "new": false
     },
     {
-     "title": "Before back-to-school, measles outbreak declared in 3 Maryland counties, including Carroll - Capital Gazette",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbFJYcno1QU54V1phUFVVZTM4MFRRanQyVlQxZmVvMkdoS0lYN1p3RGFCM1JWVGlFRkdTNFhBMGZodmwwUXBaNjB2YlQtRGJTbG8wT0F2UkZMcE9aMVJKeDk3NVRkemlxV1pLVGhTZDVCb0t6a080QjNvMEpmUFE?oc=5",
-     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-     "source": "Capital Gazette",
+     "title": "First MD Measles Case Of 2026 Confirmed In Traveler - Patch",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlBVzZIUkFxVkNxcjM2OWVKRm5zTzRwNExvc0ZBbjhLY2Z6S3hPZ2V3TjdEQkZzZGRmSjJ2d1p2Ml9zOFFLY2IyaEdLNkUtdXhSNGFWcFJvNmNtRUtVWHRCcXZQZVB1c28wV2p2YUgzeEd4R3I1VjBlVjV4THZMQWIzSGE1YTQ?oc=5",
+     "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+     "source": "Patch",
      "new": false
     }
    ]
@@ -141,9 +141,9 @@
      "new": false
     },
     {
-     "title": "Measles virus detected in Sedona wastewater samples - KNAU",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFJUOUVBQ3lVQmtsakJSOTZLOEVSaTRzWk0xRTBZaHR4Qkg0ek4yR3N6YXNjZU1kcl9memRxYnBUT2loRW5VelVSd3plYWJXQ3UxV1NXcVhFQmVLNUtrenNwQ2EzOEx0TEVoZDNxSjZJZzVXMGhTUHJSeDlpY2NSdzVKWnVTYlUwQkgyWEhySHllQnVpa0tDVXJ5N2hKQWpDeUVsaDFSb2s?oc=5",
-     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+     "title": "Yavapai County confirms measles case in Prescott area - KNAU",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRm9VUF9CTmxfaklJOTlqREFtcVdmWHdHMnRHbDdzZGRyb2xqLWNCOGN4dU1xNzNBUDUwa2J5ZXpOWnBVa0hZWU0weWVIREw5U2dOd3J3RHIwd2pWX1BiTnkwN3BXbXhQOGwzTUZoaktmSG8yVmRKa1JGUFlsSDd0ZE9WTEVkNDEzUHdna2xkUnc4d2JZYmVBS3c4S2NnNnRzNzRSTFpTTGlpTFE?oc=5",
+     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
      "source": "KNAU",
      "new": false
     },
@@ -197,25 +197,25 @@
      "new": false
     },
     {
+     "title": "Arizona vaccination rates raise concerns as US loses measles elimination status - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaktTXzJBMDdwbEJ5VWg5dVFxUXhCb21FLXlxZnhvZVYtQzN0N1NXYUIteEJHQklOcWxnQWltZFVSZDdQUGxsTnN0SlFWRmNSUHhBS21Hakx3Zlh1SFZESnVleXdpU085YW42RWc0OTV1eERhZ0lpQ2o1MTRVVzRlSUowV3lhUE91LVVpUlYtRUYwTFYwYjhCd09zZUREUE0wR2l0NnBBSE1uSGtkZ1RubnROWdIBxwFBVV95cUxNY2xzcTNCSk4xRVVIbXl0c0JwSEpIN0syVEZ5cHA0c3Y1TTRvTUczengtWE96ZjJPaF9FQkxLWlVldkd1Q0FIRHc2ekxfY0hTcjhwN0doS1dGYVJVTFhTVU5kUWtIZ2FsLW5fUDl4RklkUmIyc3B5WGRBa2toeWFEMlJyYUJRZ1N5emhQS2NMUWJQRm1iTXY1T2ZubTh4d0tQcjdjMmhGbmN0T3RFMXBYdlZSZS13RWU0VkZKa3k3NUdxNjdvVms4?oc=5",
+     "published": "Wed, 18 Nov 2026 03:45:00 GMT",
+     "source": "AZ Family",
+     "new": true
+    },
+    {
      "title": "As U.S. loses measles elimination status, vaccination rates in Arizona continue to fall - KJZZ",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWdPWDNHRGctcXF0cU1Ic2tEZkgtb3JNeTVtOFFDR19ES1RMeHFlZFFkUU12YXJHdkhqYWVOcjAwZjFqbk43a0RhVEFHNGVvOVg3a05PMmozdHJpQTBKcmxXVTkyM1hWYzB1eVM1TVpaWkRLOEY2b0t2eExGMFhZVlhfMWxfeWhndkFmM2o5ZWxqckFOY2FnM2lXeXMzYUg0WWRBYUIxTXRVSVQycjU0M1NnWU1UeEdkUGw0OXRZdnM3Tjg?oc=5",
      "published": "Tue, 17 Nov 2026 14:30:00 GMT",
      "source": "KJZZ",
-     "new": true
+     "new": false
     },
     {
-     "title": "US reportedly loses measles elimination status after Maricopa County cases hit 30-year high - AZ Family",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1h4RktFVDU0RngyeC05T1hXYmRTdldPTXhDOUhjOW94M05ZZEtDcUVjc3lWZ0FuZkZOMkpCbG5OMHBIMkpzNXZObWYxaEhMLVlQR2UxdW11M2xBMEg3UjFZYW44dlhoUTB1c1MwRU84VmQ2QlN4RGZRckdvLUU0Ym05aDVyMWNxYmh4MVZoaGwyTHRmYXJRZU1SY0psRTBZT3h5Y1JLTDAtZ3lrTlVIOEVJX3VxUjJ5WTVVT2lOQQ?oc=5",
-     "published": "Sun, 15 Nov 2026 21:42:00 GMT",
+     "title": "US loses measles elimination status. Here\u2019s what it means for Arizona - AZ Family",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkpaZW9vZ0pHVU15SHV4RGI1djIzMmJxV3dQN09Pc0VVRTQ3RU82N3JnTG9qNmV6aTN0aHpJOWJlZmRzdVduMlJQa2pXVk5vRjZPRVloQTRrV0sxbVVyZDREVHZwSHdwaGN4TGt1NU13VWJLX0tYSW85dXpHZ3E4WE5Cb2Z2MmhWcXpIOFdMRV9sZVZYMFp1Y0V5VDlsUml5Rkh2S20yVGhVdw?oc=5",
+     "published": "Wed, 18 Nov 2026 03:37:00 GMT",
      "source": "AZ Family",
-     "new": false
-    },
-    {
-     "title": "Multiple Public Exposures to Measles Identified in Maricopa County - Maricopa County (.gov)",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLeTc1UUdLVGtwOHhEQmJzaTBfRnc3ZzIyM1phZ2ttSllhM3RvejF3UXhmT3UzeG9tV0RkN19KWjBQUVlGbjVZVVhpX1J2R0lBOFBwN2VrY0hmTUlEVll5eGF3?oc=5",
-     "published": "Tue, 21 Jul 2026 22:44:19 GMT",
-     "source": "Maricopa County (.gov)",
-     "new": false
+     "new": true
     }
    ]
   }
